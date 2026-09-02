@@ -1,5 +1,5 @@
 {
-  "last_refreshed": "2026-09-02T19:43:59.531113Z",
+  "last_refreshed": "2026-09-02T19:52:32.691302Z",
   "segments": {
     "material-handling": {
       "name": "Material Handling",
@@ -85,7 +85,7 @@
           "text": "Cost, trade or financing pressure delays larger projects while service, retrofit and essential reliability work remain active."
         }
       ],
-      "economics": "The current evidence set contains 4 positive-growth references and 0 constraint references across 20 selected items. The resulting capital-confidence score is 56, with a disciplined investment posture. This is a directional headline-based indicator rather than an official economic index; use the linked ISM and Federal Reserve sources for primary economic data.",
+      "economics": "The current evidence set contains 3 positive-growth references and 0 constraint references across 20 selected items. The resulting capital-confidence score is 56, with a disciplined investment posture. This is a directional headline-based indicator rather than an official economic index; use the linked ISM and Federal Reserve sources for primary economic data.",
       "opportunities": [
         {
           "title": "Robotics at scale",
@@ -299,10 +299,10 @@
       ],
       "news": [
         {
-          "title": "Asia-Pacific Process Automation and Instrumentation Market Size, Share,Trends, Growth Analysis Report, 2029 - marketsandmarkets.com",
+          "title": "Asia-Pacific Process Automation and Instrumentation Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX3MzUEl3ZE5IZHFVRTVXWDF0OURvT3NmNHhSUXI4eFdMTkJzVmkyOG1xaWgyY3BFMzRBTDJSZUE3NkJxbTc2ZUN6dzVJeDFSUGFCMFA3LWxwQkJKNlZsR1Q2cmJ6U09Zd0t3WHJGdGp5YVBqOVRSYWdqcmNfd1Vwb0stWFlubmlIODkzczFuVldQNGtxaF9LN2J0cG5pQQ?oc=5",
           "published": "Sun, 23 Aug 2026 08:59:53 GMT",
-          "source": "marketsandmarkets.com"
+          "source": "MarketsandMarkets"
         },
         {
           "title": "Hisaka Works Advances Energy-Efficient Industry Through Heat Exchange, Automation and Reliability - The Worldfolio",
@@ -366,7 +366,7 @@
       "summary": "The Heavy Industries signal is positive at 75. Current evidence shows more growth and investment signals than constraints. Technology adoption remains strong, while capital conversion remains disciplined.",
       "brief": [
         "The monthly evidence set places Heavy Industries at a positive composite score of 75. The balance of current headlines and source signals indicates Current evidence shows more growth and investment signals than constraints. Technology adoption remains strong, while capital conversion remains disciplined.",
-        "Leadership attention is concentrating on Energy economics, Autonomous operations. These themes were selected from repeated terms in the current segment-specific evidence set, then mapped to the dashboard's established strategic taxonomy.",
+        "Leadership attention is concentrating on Energy economics, Critical materials. These themes were selected from repeated terms in the current segment-specific evidence set, then mapped to the dashboard's established strategic taxonomy.",
         "For OEMs, the practical implication is to pursue opportunities with measurable operating outcomes and a clear implementation path. The current investment posture is disciplined, so reusable architecture, lifecycle confidence and proof of value remain important to conversion."
       ],
       "drivers": [
@@ -397,8 +397,8 @@
       ],
       "leaders": [
         "Energy economics",
-        "Autonomous operations",
         "Critical materials",
+        "Autonomous operations",
         "Asset reliability"
       ],
       "outlook": [
@@ -422,7 +422,7 @@
           "text": "Highest-ranked leadership theme in the current monthly evidence set."
         },
         {
-          "title": "Autonomous operations",
+          "title": "Critical materials",
           "text": "Second-ranked recurring theme with direct relevance to OEM differentiation."
         },
         {
@@ -460,16 +460,16 @@
           "source": "UA.NEWS"
         },
         {
-          "title": "South-Africa Mining Automation Market Size, Share,Trends, Growth Analysis Report, 2030 - marketsandmarkets.com",
+          "title": "South-Africa Mining Automation Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWlZQNG1NWF9qTG9OX2VuNkhFTW1YenIxV2stZ0lnejFaRTQzSFNDV1EtVEo2VnN6czZTSkFDZUg1N2l4SnFmVG10M1VGMFJKazk4N0ltNHcxVlJpMElPSEctYUlFYVh3NFpnajlFN2NBb29GbmdZUVpuV1lXQkJwMmo2VmZaUXp3YmwzWVppelFqbW1yM3ZFeC1wWjU?oc=5",
           "published": "Tue, 11 Aug 2026 16:41:58 GMT",
-          "source": "marketsandmarkets.com"
+          "source": "MarketsandMarkets"
         },
         {
-          "title": "Digging Deeper: The Future of Mining with Automation and Ultra-Reliable Wireless - Cisco Blogs",
+          "title": "Digging Deeper: The Future of Mining with Automation and Ultra-Reliable Wireless - blogs.cisco.com",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSUJTR3dKZWFNY1RyS0NJU09GS29zc1pNajBxR1EwajM2ck9KYTl6YWZsQ0Z3OE9CVXA3bE5RT25KV01Fc0hnLXpIWkpNS3ZIT2FKTVpkNmR1UmI4X25CaS1FTE8yQjN1Y193NWhaV3RydzhEc1AzcUN1dHdCSFg4UEFCSnE4MnMtaXZid0ozRTh5Q2owNDJnV29pMjRrel84TUZ3R0gwT1VMcjBNN1JKb3hfUXN4WjVpS1E?oc=5",
           "published": "Fri, 01 May 2026 07:00:00 GMT",
-          "source": "Cisco Blogs"
+          "source": "blogs.cisco.com"
         },
         {
           "title": "Review investigates effects of automation on the mining industry in South Africa - Tech Xplore",
@@ -478,10 +478,10 @@
           "source": "Tech Xplore"
         },
         {
-          "title": "Mining Automation Industry Research Report 2026-2035: A $6.36 Billion Market with Hexagon, Rockwell Automation, Komatsu, Rio Tinto Group, Sandvik, Caterpillar Leading - Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmhyTUYtcTgtcGFtSXVuenFTVnVYSXp5YTBSYTJWMEo4dlJEOUxmVlRDcUJKa21QWUNrLVowQ2VNSGRDNXNmeS1PYjBqYTZOVEUwSU9XajV3Rk9PbWhfSXJ3SjI0Y1JMaEk4RFdlUHQtSFU4bUgxRDdyYlRuM2ZYcFBSQlFfWGlpbmlYQjZPSnRYbEVXN3c?oc=5",
-          "published": "Mon, 02 Mar 2026 08:00:00 GMT",
-          "source": "Yahoo Finance UK"
+          "title": "Cross-Industry Experience Boosts Mining Automation: Honeywell - Mexico Business News",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQXVZUFg2cktqSWtzd2xnVmJMN0VtV2RkMzZMbnJUUGtpOFgwaHNEU1QyUG1WRmp3NTF1Y3d3YS12UWZ5S1FpLUVwT0JoMVhUODhXaHU4OUF1YlpIM2NvZ3Y0c0ZMU2Y5b3cteG1pTmFHajhjNldSM2ZTYTVrSjBEd0VYVHRMVHRvWnlwblJJOThBYms5R1lxRmNGUi04QXBCZmc?oc=5",
+          "published": "Fri, 20 Feb 2026 08:00:00 GMT",
+          "source": "Mexico Business News"
         }
       ],
       "automation_note": "Automatically generated from public headline metadata using transparent rules. Review before external distribution."
@@ -643,14 +643,14 @@
     },
     "packaging": {
       "name": "Packaging",
-      "score": 74,
-      "label": "Constructive",
+      "score": 75,
+      "label": "Positive",
       "accent": "#2e9d74",
       "metrics": [
         {
           "label": "Composite sentiment",
-          "value": "74",
-          "note": "Constructive"
+          "value": "75",
+          "note": "Positive"
         },
         {
           "label": "Articles analyzed",
@@ -673,9 +673,9 @@
           "note": "September 2026"
         }
       ],
-      "summary": "The Packaging signal is constructive at 74. Current evidence shows more growth and investment signals than constraints. Technology adoption remains strong, while capital conversion remains disciplined.",
+      "summary": "The Packaging signal is positive at 75. Current evidence shows more growth and investment signals than constraints. Technology adoption remains strong, while capital conversion remains disciplined.",
       "brief": [
-        "The monthly evidence set places Packaging at a constructive composite score of 74. The balance of current headlines and source signals indicates Current evidence shows more growth and investment signals than constraints. Technology adoption remains strong, while capital conversion remains disciplined.",
+        "The monthly evidence set places Packaging at a positive composite score of 75. The balance of current headlines and source signals indicates Current evidence shows more growth and investment signals than constraints. Technology adoption remains strong, while capital conversion remains disciplined.",
         "Leadership attention is concentrating on End-of-line robotics, Flexible machinery. These themes were selected from repeated terms in the current segment-specific evidence set, then mapped to the dashboard's established strategic taxonomy.",
         "For OEMs, the practical implication is to pursue opportunities with measurable operating outcomes and a clear implementation path. The current investment posture is disciplined, so reusable architecture, lifecycle confidence and proof of value remain important to conversion."
       ],
@@ -694,7 +694,7 @@
         },
         {
           "name": "Workforce availability",
-          "score": 63
+          "score": 70
         },
         {
           "name": "External risk clarity",
@@ -714,7 +714,7 @@
       "outlook": [
         {
           "case": "Base case",
-          "text": "The Packaging market remains constructive, with disciplined conversion around measurable outcomes."
+          "text": "The Packaging market remains positive, with disciplined conversion around measurable outcomes."
         },
         {
           "case": "Upside",
@@ -725,7 +725,7 @@
           "text": "Cost, trade or financing pressure delays larger projects while service, retrofit and essential reliability work remain active."
         }
       ],
-      "economics": "The current evidence set contains 3 positive-growth references and 0 constraint references across 20 selected items. The resulting capital-confidence score is 50, with a disciplined investment posture. This is a directional headline-based indicator rather than an official economic index; use the linked ISM and Federal Reserve sources for primary economic data.",
+      "economics": "The current evidence set contains 4 positive-growth references and 0 constraint references across 20 selected items. The resulting capital-confidence score is 50, with a disciplined investment posture. This is a directional headline-based indicator rather than an official economic index; use the linked ISM and Federal Reserve sources for primary economic data.",
       "opportunities": [
         {
           "title": "End-of-line robotics",
@@ -770,10 +770,10 @@
           "source": "Packaging World"
         },
         {
-          "title": "PPMA Show 2026: unlocking next-generation packaging and production - foodanddrinktechnology.com",
+          "title": "PPMA Show 2026: unlocking next-generation packaging and production - Food and Drink Technology",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT3pja3JnaVVNM29IZXEwSUJ4VjhJMVFBN09CQS1MOHB1ZkxKRzRtaE5QNWloLU00dEVWMFhtRFZWMmFaN01BLVhZcVJJb1JHd3ZnU244Zkd0bnplZFV3NmlrYXpuUmhkVE1vNlJIMmFGQ2JUZUxqQk9BVVYyR3lvbE9FVERoTG1FYkM1SDdJVnlwVll6NlEzNlpZMEZEY0dJTmVFUmtaRlB4WEY0U2ZGQ1Rma3lqdmM?oc=5",
           "published": "Wed, 02 Sep 2026 15:31:51 GMT",
-          "source": "foodanddrinktechnology.com"
+          "source": "Food and Drink Technology"
         },
         {
           "title": "Packaging, processing driving robotics tech adoption - Commercial Baking",
@@ -925,10 +925,10 @@
           "source": "Labels & Labeling"
         },
         {
-          "title": "Discover how BW Converting combines engineering expertise with enhanced automation to deliver pioneering products - manufacturing-today.com",
+          "title": "Discover how BW Converting combines engineering expertise with enhanced automation to deliver pioneering products - Manufacturing Today",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPc3NvLTRiU1RfTlZIN04wM2NEY2pCWTNPLURUWXVmTHEwWHlYX3FBdnJXYTQyeHpFWHF5R0VwSm5WTzVQajJYajRReXRjTHF6M3FWYVVpdXpsblpvNk1zcW5HVHExYjNjZnR4VG1QR0VDMTcxRlZDaTdBeGxXeGFPZVY1Z0FkLXBNbmJHQ0wxdF9wNGdUeXNEdnUyaHlmWW1mbkR0eXV1LXI3VGxnSkh3VUl5ejZTNWZ1WXNMdmxmMHFRYVdXVUpFRkpsVDc1cHVrVFM4NkpfM29QcjhtU2RjYTlwZnJrZw?oc=5",
           "published": "Thu, 12 Mar 2026 07:00:00 GMT",
-          "source": "manufacturing-today.com"
+          "source": "Manufacturing Today"
         },
         {
           "title": "Digital Printing for Flexible Packaging Market Size & Forecast 2036 - Fact.MR",
