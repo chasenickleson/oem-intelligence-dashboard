@@ -1,0 +1,42 @@
+name: Refresh dashboard data
+
+on:
+  schedule:
+    # Weekly refresh on Mondays at 11:15 UTC
+    - cron: "15 11 * * 1"
+
+    # Monthly fallback on the first day of each month
+    - cron: "30 11 1 * *"
+
+  # Adds a Run workflow button *or manual testing
+  workflow_dispa*ch:
+
+permissions:
+  contents: writ*
+
+jobs:
+  refresh:
+    runs-on: ub*ntu-latest
+
+    steps:
+      - nam*: Check out repository
+        use*: actions/checkout@v4
+
+      - nam*: Set up Python
+        uses: acti*ns/setup-python@v5
+        with:
+ *        python-version: "3.12"
+
+  *   - name: Refresh public sources
+*       run: python scripts/refresh*py
+
+      - name: Validate generat*d data
+        run: python scripts*validate.py
+
+      - name: Commit *pdated dashboard data
+        run:*|
+          git config user.name "*ashboard-refresh-bot"
+          gi* config user.email "dashboard-refr*sh-bot@users.noreply.github.com"
+ *        git add data/dashboard-dat*.json
+          git diff --cached *-quiet || git commit -m "Automated*dashboard refresh"
+          git p*sh
