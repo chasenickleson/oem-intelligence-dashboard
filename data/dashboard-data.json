@@ -1,258 +1,756 @@
 {
-  "last_refreshed": "2026-09-02T19:18:14.949184Z",
-  "refresh_mode": "GitHub Actions: weekly newsroom, monthly full refresh",
+  "last_refreshed": "2026-09-02T18:00:00Z",
   "segments": {
     "material-handling": {
       "name": "Material Handling",
       "score": 72,
       "label": "Constructive",
-      "summary": "Automated proof-of-concept data. The scheduled workflow refreshes the newsroom and evidence-based leadership topics.",
-      "leaders": [
-        "Robotics at scale"
-      ],
-      "news": [
+      "accent": "#cd163f",
+      "metrics": [
         {
-          "title": "Swisslog to showcase next-generation warehouse automation for faster, more scalable logistics in Riyadh - The National Law Review",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLXpEejQyNl8tUGNDV2tWZ3dlWXpNSWIwMTNHZDMtUjB5YzgtNTlFZEhhRVMtdnFfaUp5b1EyYzFMM3ZqWDk4ZkdxVVU2R0NwM2JCaGNFZ01XMVJONGIzT1dxMmhtaDl4MGhUM2F4dmVleVRqQktfMEhXaER6SXZfUTRQeDcwQjZoc0hLd1FPWVZXNmhtSTZiSGEyZkFzbnkzSklSazgxTTVVSXFhazVkU0szSEVfZw?oc=5",
-          "published": "Wed, 02 Sep 2026 10:12:56 GMT",
-          "source": "The National Law Review"
+          "label": "Automated material handling market",
+          "value": "$33.39B",
+          "note": "2025 estimate"
         },
         {
-          "title": "Vadzo Imaging Positions Falcon-900MGS: 3MP Sony Pregius S IMX900 Global Shutter Monochrome USB Camera with Quad Shutter Control for Forklift Automation - Newswire.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcDMxRjZDeFp0N2JJTVJDQ0JBOUtmeXNsLW1XcWgwcnZMbm45SnhDdml6dm15UnZ4d3FJVHU5SUlxNFczTGVHSXJReDBjZUtqYzZROTJzdmh6R0tZVFExdXkzMTBDWm1feVZPUS1ueFNOWVVVS3ZZTWg3RVFucW8zS0hITzc0enRZX2dveFZhNG91Q3hSdEVXRE9VZHh4MnlWYlRzcDVCbjAxdU41cUE?oc=5",
-          "published": "Wed, 02 Sep 2026 15:00:00 GMT",
-          "source": "Newswire.com"
+          "label": "2030 forecast",
+          "value": "$51.22B",
+          "note": "8.9% CAGR"
         },
         {
-          "title": "How Multiway Robotics Transformed a Malaysian Manufacturer's High-Bay Smart Warehouse with 5,000+ Storage Locations - Robotics Tomorrow",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMmpuTkdwMUNzOE9tR2RYWjZZS3I5c2xlOE40Rk4yai1OV0tyRmExS1c0NExmaExBalZOU2UwS0lMUDVyeC00N2p5bm1Ea0VOaER6VF9ETVFSd3I2WXVBejlBMkp6SzZNT2U0MGhVLXdYc3FPdEdlVl9ETDhrNzRZdnllVUh3eG81TUkxSWo3V0JhZy1GZ1RSRi03MnJHQ0phaDd5NXRueHlRUF9aTFQ4NVRLbmhnUGNXUFJ1Uk5sU0hmLWxBMzQ5S2tYajFlT2NzSThCS3EzTHZ6eldSU2dRV2NER1dWU1VXRE13c2tZenk5R2UyVWlHZGhTOA?oc=5",
-          "published": "Tue, 01 Sep 2026 12:43:44 GMT",
-          "source": "Robotics Tomorrow"
+          "label": "MODEX attendance",
+          "value": "50,000",
+          "note": "2026 visitors"
         },
         {
-          "title": "Warehouse Operators Accelerate Automation - WSJ",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQW0yRTF6RGdoRlRrQ01jY3h5VUNIbVBFZTk4ZDBJbUh0LWRYM2J6anp2M0hVYmFhZU9VcVRJUExFYXRNMlJNRzZJTURtVnBwV21JZ1gwdkFacHpualBNUHhuOFJ1THQxUXdBeVNFMnJUaVdGM0djcDV5bF84YWgybnQ1M2czUVkwMEVDeGZSNW4?oc=5",
-          "published": "Mon, 17 Aug 2026 07:00:00 GMT",
-          "source": "WSJ"
+          "label": "Labor pressure",
+          "value": "90%",
+          "note": "Organizations impacted"
         },
         {
-          "title": "Beyond Automation for System Integration - Logistics Business",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV3EzNjZJaUgtekFZdDJGQUVaZ3FRVFo1di1uekhReFQzcUJpcXZGQ0hQMGppN19TSWcwdEVJSFBRR1lHa1kxb0pLRDAyZEw0ZmZiQlhzZndHZlZFRkZPaWRCVWo5TWFKTmdfTkNVZkRiWmJPQXdONXEyektTM2l2OEctMGFiYUYxbVY1V2Zrdi1oTnBzRWdYakdnNUxWMU9Yd0FkZWd1aDdocXFvSnE1MC1vQnVWMHJCMkE?oc=5",
-          "published": "Mon, 31 Aug 2026 23:46:32 GMT",
-          "source": "Logistics Business"
+          "label": "Investment posture",
+          "value": "Disciplined",
+          "note": "ROI-led"
         }
+      ],
+      "summary": "Automation demand remains supported by labor pressure, resilience planning and service expectations, while financing, tariffs and integration risk keep investment disciplined.",
+      "brief": [
+        "The material handling and warehouse automation market is entering a more favorable period after several years of normalization and delayed capital decisions. The underlying need for automation remains strong because customers continue to face labor constraints, fulfillment complexity and pressure to build more resilient supply chains.",
+        "Competitive advantage is shifting from installing individual technologies toward integrating complete operating systems. Customers increasingly expect conveyors, AS/RS, robotics, AMRs, controls, safety and warehouse software to work together with common diagnostics, useful data and a credible lifecycle model.",
+        "The strongest near-term opportunities are scalable brownfield modernization, connected material-flow systems, robotics that address labor and safety constraints, and lifecycle services that address obsolescence and cybersecurity."
+      ],
+      "drivers": [
+        {
+          "name": "Automation demand",
+          "score": 86
+        },
+        {
+          "name": "AI and real-time data",
+          "score": 82
+        },
+        {
+          "name": "Capital confidence",
+          "score": 61
+        },
+        {
+          "name": "Workforce availability",
+          "score": 34
+        },
+        {
+          "name": "Trade clarity",
+          "score": 29
+        },
+        {
+          "name": "Resilience priority",
+          "score": 78
+        }
+      ],
+      "leaders": [
+        "Scaling robotics beyond pilot projects",
+        "Orchestrating mixed fleets and automation technologies",
+        "Modular and decentralized architectures",
+        "Lifecycle support for software-dependent systems"
+      ],
+      "outlook": [
+        {
+          "case": "Base case",
+          "text": "Disciplined investment continues in projects with clear throughput, labor, reliability and service-level outcomes."
+        },
+        {
+          "case": "Upside",
+          "text": "Lower financing friction, reshoring and stronger logistics activity accelerate greenfield and multi-site programs."
+        },
+        {
+          "case": "Downside",
+          "text": "Tariff or financial volatility delays large projects while retrofit, service and productivity work remains active."
+        }
+      ],
+      "economics": "Manufacturing expansion, reshoring and renewed warehouse investment support demand. Elevated input costs, financing conditions and tariffs keep customers focused on measurable throughput, labor, space and uptime outcomes.",
+      "opportunities": [
+        {
+          "title": "Modular automation",
+          "text": "Repeatable modules and phased deployment reduce engineering and project risk."
+        },
+        {
+          "title": "Mixed-fleet orchestration",
+          "text": "Connect conveyors, AS/RS, robotics, AMRs and software around shared diagnostics."
+        },
+        {
+          "title": "Lifecycle modernization",
+          "text": "Turn cybersecurity, obsolescence and installed-base knowledge into recurring value."
+        },
+        {
+          "title": "Energy-aware motion",
+          "text": "Quantify energy, condition and performance across drives, motors and material-flow assets."
+        }
+      ],
+      "sources": [
+        [
+          "MHI",
+          "https://www.mhi.org/"
+        ],
+        [
+          "MHI Blog Search",
+          "https://www.mhi.org/search?contentType=Blog"
+        ],
+        [
+          "Modern Materials Handling",
+          "https://www.mmh.com/topic/tag/MHI"
+        ],
+        [
+          "MHEDA Journal",
+          "https://www.mheda.org/journal/"
+        ],
+        [
+          "ISM PMI Reports",
+          "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/"
+        ],
+        [
+          "Federal Reserve Beige Book",
+          "https://www.federalreserve.gov/monetarypolicy/publications/beige-book-default.htm"
+        ],
+        [
+          "Chicago Fed Beige Book",
+          "https://www.chicagofed.org/research/data/beige-book/current-data"
+        ],
+        [
+          "DC Velocity",
+          "https://www.dcvelocity.com/"
+        ],
+        [
+          "Logistics Management",
+          "https://www.logisticsmgmt.com/"
+        ]
       ]
     },
     "process": {
       "name": "Process",
-      "score": 72,
+      "score": 74,
       "label": "Constructive",
-      "summary": "Automated proof-of-concept data. The scheduled workflow refreshes the newsroom and evidence-based leadership topics.",
-      "leaders": [
-        "Industrial AI in context",
-        "Brownfield modernization",
-        "OT cybersecurity",
-        "Workforce knowledge"
-      ],
-      "news": [
+      "accent": "#f58025",
+      "metrics": [
         {
-          "title": "Asia-Pacific Process Automation and Instrumentation Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX3MzUEl3ZE5IZHFVRTVXWDF0OURvT3NmNHhSUXI4eFdMTkJzVmkyOG1xaWgyY3BFMzRBTDJSZUE3NkJxbTc2ZUN6dzVJeDFSUGFCMFA3LWxwQkJKNlZsR1Q2cmJ6U09Zd0t3WHJGdGp5YVBqOVRSYWdqcmNfd1Vwb0stWFlubmlIODkzczFuVldQNGtxaF9LN2J0cG5pQQ?oc=5",
-          "published": "Sun, 23 Aug 2026 08:59:53 GMT",
-          "source": "MarketsandMarkets"
+          "label": "Professional anchor",
+          "value": "ISA",
+          "note": "Standards and knowledge"
         },
         {
-          "title": "Hisaka Works Advances Energy-Efficient Industry Through Heat Exchange, Automation and Reliability - The Worldfolio",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZUJTekFGNGtKMGZaQzRoQ3g0WUxpS2JpSXZxTUFscUJKekNMTEdyWW43Z3o5dnZYZzJVTTNGQ25hbW5aTDdNeV9aaE5LNmV1ck9hQXZIQnVWV09ZMC1lUWFJVnU2ZzhmWlE0TkI2X1MtRGtmTTdGWjdBUk4xOTVTOFVPZFNESWwxc1FUSllNMjdoaExiV09PcVR2U3RSbnRYNHdObkotYVFVcThMa0kyY2d5VVlfNWxTVnRYeW5uVEVCWmprbWVQV0F4Vlg2MWpLamtvdVBvMjZUQQ?oc=5",
-          "published": "Tue, 01 Sep 2026 08:50:49 GMT",
-          "source": "The Worldfolio"
+          "label": "Automation audience",
+          "value": "140K+",
+          "note": "Monthly professionals"
         },
         {
-          "title": "Industrial Automation Services Market Size, Share [2026-2034] - Fortune Business Insights",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ2tWM1dkT2ZXVnF0enpoVGZkWmdTY3gxQVk1SDB4dmYtUjBZamNKQXhVa0R1Zk5sSGZ1TTdwaXlaLVlkNXMtcTlQNHlNeXBjSlNqem9mS2Z6cmMxWXVSeTZQYlRJTTNXZks2VFllYlFBX1U0N0JDbmNMR1NmSmNCM0tfTVRBRV9XT1p0cA?oc=5",
-          "published": "Mon, 17 Aug 2026 07:00:00 GMT",
-          "source": "Fortune Business Insights"
+          "label": "Manufacturing PMI",
+          "value": "54.6",
+          "note": "Current snapshot"
         },
         {
-          "title": "How Dow Is Turning Automation into a Strategic Engine for Scalable AI - Oil & Gas IQ",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWWY0QzBCYk9BLUZ3b0piYkRXRmRzYXU3bS1EblRVaDVnLXU4WElCUDNQSHdmenRPeDVaWWloNlhaRDJ1aDY5djZqVWE1ZEJFbEdYbzV5RGFQM3VlTW1nVHVlTURpemRPS0RWZjVSQXBidlJXNUNBWGxlamVHZFhmTWhtYjJTYzQ2WnF5LTBITlJCNUhsX25KWV9CbEtNZFQwbTVnbm5NN0FUMzlDSUxqaQ?oc=5",
-          "published": "Fri, 21 Aug 2026 16:38:42 GMT",
-          "source": "Oil & Gas IQ"
+          "label": "Core priority",
+          "value": "Cybersecurity",
+          "note": "Secure by design"
         },
         {
-          "title": "Process Automation and Instrumentation Market to Reach USD 2.0 Billion by 2035 as Smart Manufacturing Accelerate Global Industrial Transformation - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcXNzVmdGdlA2a3VCY0x6WmZLUjBsbUFYSUFGQ1h0aE1GZUo2ellXdlZfaTNtbF9oLVhxMV9IT3p0S21PUkNXcDZHcGM4X1dtY3hHMG5nX0RnVWxyVC1GTXF0bXBqVEpZalpBaEJmUjZaX3pVTFVlN2RlWG9JTkN1XzdHYlhCdW8tZGJ4ZXVHNkhBYlpWR2w2aWxFUkRlMFBhcmR4WHhrZV9RQ0ZrNy0zb2VLM2U2bFk?oc=5",
-          "published": "Wed, 20 May 2026 07:00:00 GMT",
-          "source": "Yahoo Finance"
+          "label": "Investment posture",
+          "value": "Phased",
+          "note": "Brownfield-first"
         }
+      ],
+      "summary": "Secure, phased modernization is supported by reliability, cybersecurity and workforce priorities, while brownfield complexity keeps investment disciplined.",
+      "brief": [
+        "Process industries continue to face a compelling modernization need driven by aging controls, cybersecurity exposure, limited engineering resources and the loss of experienced operators.",
+        "Industrial AI and analytics gain credibility when grounded in process context and integrated into existing work practices. Interoperability and secure connectivity enable phased modernization rather than disruptive replacement.",
+        "The strongest opportunities are secure control migration, connected asset performance, energy optimization, operator enablement and standardized skid architectures."
+      ],
+      "drivers": [
+        {
+          "name": "Secure modernization",
+          "score": 88
+        },
+        {
+          "name": "Industrial AI outcomes",
+          "score": 81
+        },
+        {
+          "name": "Reliability investment",
+          "score": 84
+        },
+        {
+          "name": "Capital confidence",
+          "score": 62
+        },
+        {
+          "name": "Workforce readiness",
+          "score": 48
+        },
+        {
+          "name": "Energy efficiency",
+          "score": 79
+        }
+      ],
+      "leaders": [
+        "Applying AI within process context",
+        "Modernizing brownfield systems without disrupting production",
+        "ISA/IEC 62443-aligned cybersecurity",
+        "Preserving operator knowledge and process expertise"
+      ],
+      "outlook": [
+        {
+          "case": "Base case",
+          "text": "Phased modernization continues around reliability, security and lifecycle risk."
+        },
+        {
+          "case": "Upside",
+          "text": "Improved confidence accelerates control migration and connected asset programs."
+        },
+        {
+          "case": "Downside",
+          "text": "Capacity projects slow while compliance and reliability work continues."
+        }
+      ],
+      "economics": "Industrial expansion supports process demand, but energy, regulatory requirements, input costs and brownfield execution risk favor phased programs with measurable reliability outcomes.",
+      "opportunities": [
+        {
+          "title": "Secure control modernization",
+          "text": "Create migration paths that improve lifecycle and data access without destabilizing production."
+        },
+        {
+          "title": "Connected asset performance",
+          "text": "Unify process, condition and maintenance context."
+        },
+        {
+          "title": "Skid standardization",
+          "text": "Deliver reusable modules with consistent controls and diagnostics."
+        },
+        {
+          "title": "Workforce enablement",
+          "text": "Embed guided troubleshooting, simulation and remote expertise."
+        }
+      ],
+      "sources": [
+        [
+          "ISA",
+          "https://www.isa.org/"
+        ],
+        [
+          "Automation.com",
+          "https://www.automation.com/"
+        ],
+        [
+          "Processing Magazine",
+          "https://www.processingmagazine.com/"
+        ],
+        [
+          "Control Global",
+          "https://www.controlglobal.com/"
+        ]
       ]
     },
     "heavy-industries": {
       "name": "Heavy Industries",
-      "score": 72,
+      "score": 67,
       "label": "Constructive",
-      "summary": "Automated proof-of-concept data. The scheduled workflow refreshes the newsroom and evidence-based leadership topics.",
-      "leaders": [
-        "Autonomous operations",
-        "Critical materials",
-        "Energy economics",
-        "Asset reliability"
-      ],
-      "news": [
+      "accent": "#775da6",
+      "metrics": [
         {
-          "title": "Caterpillar applies mining automation experience to AI deployment - UA.NEWS",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTEpGSGxrZGRUeWlRYWpyeFp3Mnh4SllCUlJXeEJQdmhUN1hSYmZaQnRGMFZFbXBZZm1OSW1DdjBvOEdSRWY3Z0Y1M0V3N0k2OUhwc0Q0VHM4MlpKN1c3aUc1VkJ3ZkUwZ2xDR3FBSEJSREoxR2l2VElNS2xtRzBYV3E2cFFobDZzRDFyUU4tbXZzdkJKVlNPQi1hbXcxZWVISnFtU2l6VXN2T0l4T0lRQlB3RUZNV0Z2dUpN?oc=5",
-          "published": "Sun, 30 Aug 2026 15:08:19 GMT",
-          "source": "UA.NEWS"
+          "label": "2026 posture",
+          "value": "Guarded growth",
+          "note": "Investment with discipline"
         },
         {
-          "title": "South-Africa Mining Automation Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWlZQNG1NWF9qTG9OX2VuNkhFTW1YenIxV2stZ0lnejFaRTQzSFNDV1EtVEo2VnN6czZTSkFDZUg1N2l4SnFmVG10M1VGMFJKazk4N0ltNHcxVlJpMElPSEctYUlFYVh3NFpnajlFN2NBb29GbmdZUVpuV1lXQkJwMmo2VmZaUXp3YmwzWVppelFqbW1yM3ZFeC1wWjU?oc=5",
-          "published": "Tue, 11 Aug 2026 16:41:58 GMT",
-          "source": "MarketsandMarkets"
+          "label": "Core demand",
+          "value": "Critical minerals",
+          "note": "Supply security"
         },
         {
-          "title": "Digging Deeper: The Future of Mining with Automation and Ultra-Reliable Wireless - Cisco Blogs",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSUJTR3dKZWFNY1RyS0NJU09GS29zc1pNajBxR1EwajM2ck9KYTl6YWZsQ0Z3OE9CVXA3bE5RT25KV01Fc0hnLXpIWkpNS3ZIT2FKTVpkNmR1UmI4X25CaS1FTE8yQjN1Y193NWhaV3RydzhEc1AzcUN1dHdCSFg4UEFCSnE4MnMtaXZid0ozRTh5Q2owNDJnV29pMjRrel84TUZ3R0gwT1VMcjBNN1JKb3hfUXN4WjVpS1E?oc=5",
-          "published": "Fri, 01 May 2026 07:00:00 GMT",
-          "source": "Cisco Blogs"
+          "label": "Asset priority",
+          "value": "Reliability",
+          "note": "Uptime first"
         },
         {
-          "title": "Review investigates effects of automation on the mining industry in South Africa - Tech Xplore",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPajhDRjZoZ3lWSnQybzVTaXdPdUp6SWFrTWZ0SmtKZkxjUGV4NUFsUE1XOFZuU2RBdE5wRVkwNVBrcFluWWhTR1d1T2dfN0NzcjNMMjJNLXpyX0Z1Mm93UUZsczNoeVJlazZUSV9QUUZ4RWtwbzdFWVIxcmxmYzdjTy1zeERQdWxX?oc=5",
-          "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-          "source": "Tech Xplore"
+          "label": "Operating pressure",
+          "value": "Energy",
+          "note": "Efficiency and emissions"
         },
         {
-          "title": "Mining Automation Industry Research Report 2026-2035: A $6.36 Billion Market with Hexagon, Rockwell Automation, Komatsu, Rio Tinto Group, Sandvik, Caterpillar Leading - Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmhyTUYtcTgtcGFtSXVuenFTVnVYSXp5YTBSYTJWMEo4dlJEOUxmVlRDcUJKa21QWUNrLVowQ2VNSGRDNXNmeS1PYjBqYTZOVEUwSU9XajV3Rk9PbWhfSXJ3SjI0Y1JMaEk4RFdlUHQtSFU4bUgxRDdyYlRuM2ZYcFBSQlFfWGlpbmlYQjZPSnRYbEVXN3c?oc=5",
-          "published": "Mon, 02 Mar 2026 08:00:00 GMT",
-          "source": "Yahoo Finance UK"
+          "label": "Project bias",
+          "value": "Brownfield",
+          "note": "Debottleneck"
         }
+      ],
+      "summary": "Critical-material demand supports long-term investment, while commodity volatility and project complexity favor reliability and selective brownfield work.",
+      "brief": [
+        "Heavy industries benefit from durable demand drivers tied to infrastructure, electrification and regional supply security, but commodity cycles and high capital intensity make the market selective.",
+        "Operators emphasize reliability, debottlenecking, safety and energy performance. Aging assets raise the value of condition monitoring, resilient controls and planned lifecycle modernization.",
+        "The strongest positioning combines domain knowledge with robust architectures that remain supportable over long asset lives."
+      ],
+      "drivers": [
+        {
+          "name": "Critical-material demand",
+          "score": 82
+        },
+        {
+          "name": "Brownfield modernization",
+          "score": 86
+        },
+        {
+          "name": "Greenfield confidence",
+          "score": 55
+        },
+        {
+          "name": "Workforce availability",
+          "score": 43
+        },
+        {
+          "name": "Commodity visibility",
+          "score": 39
+        },
+        {
+          "name": "Autonomous operations",
+          "score": 75
+        }
+      ],
+      "leaders": [
+        "Protecting returns through selective capital investment",
+        "Remote and autonomous operations",
+        "Energy use and production economics",
+        "Regional supply security and critical-material demand"
+      ],
+      "outlook": [
+        {
+          "case": "Base case",
+          "text": "Reliability and debottlenecking work outpaces broad capacity expansion."
+        },
+        {
+          "case": "Upside",
+          "text": "Critical-material investment and infrastructure accelerate strategic projects."
+        },
+        {
+          "case": "Downside",
+          "text": "Commodity weakness delays greenfield work while service remains resilient."
+        }
+      ],
+      "economics": "Commodity prices, energy, permitting and financing strongly influence project timing. Reliability, autonomous operations and outage-based modernization remain comparatively resilient.",
+      "opportunities": [
+        {
+          "title": "Autonomous operations",
+          "text": "Connect mobile and fixed assets with resilient communications."
+        },
+        {
+          "title": "Asset performance",
+          "text": "Prioritize critical conveying, rotating and processing assets."
+        },
+        {
+          "title": "Energy optimization",
+          "text": "Coordinate drives, power and production schedules."
+        },
+        {
+          "title": "Lifecycle modernization",
+          "text": "Stage migrations around planned outages."
+        }
+      ],
+      "sources": [
+        [
+          "National Mining Association",
+          "https://nma.org/"
+        ],
+        [
+          "AIST",
+          "https://www.aist.org/"
+        ],
+        [
+          "NSSGA",
+          "https://www.nssga.org/"
+        ],
+        [
+          "Portland Cement Association",
+          "https://www.cement.org/"
+        ]
       ]
     },
     "manufacturing-assembly": {
       "name": "Manufacturing & Assembly",
       "score": 78,
       "label": "Positive",
-      "summary": "Automated proof-of-concept data. The scheduled workflow refreshes the newsroom and evidence-based leadership topics.",
-      "leaders": [
-        "Robotics adoption",
-        "Vision and quality"
-      ],
-      "news": [
+      "accent": "#2a79c4",
+      "metrics": [
         {
-          "title": "Chinese Robotics Stocks Riding The Factory Automation Boom - webull.com",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uU29ERzNDc2lncDhWVXB0a2RuU0ItSkxnVjNpNXFWa1RhcVRIOG1GQnp5czhSNFl1ekp2QUpnS1BSdDRwTm1icEYxQVFuOU1zemdNMWd2alI?oc=5",
-          "published": "Fri, 28 Aug 2026 18:24:57 GMT",
-          "source": "webull.com"
+          "label": "Manufacturing PMI",
+          "value": "54.6",
+          "note": "Current snapshot"
         },
         {
-          "title": "Hand in hand - Robotics Tomorrow",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14SWs2Y1lESDExYVlyYTByVHozUEFWb2pqQ3JPNk1SWUJ1VTNjbXpURXQ3aHk2MXJ3RTlJTFRHWlgxbmNWeXl1c1BLRWFxOEh4QWJVWS03Y2YzSzJnY3FTVUdGaU5mWEdCWnZUQkxEZ0dnbGJvNnc?oc=5",
-          "published": "Wed, 26 Aug 2026 13:45:25 GMT",
-          "source": "Robotics Tomorrow"
+          "label": "A3 ecosystem",
+          "value": "1,400+",
+          "note": "Member companies"
         },
         {
-          "title": "Factory Automation Market Size, Share | Industry Report [2034] - Fortune Business Insights",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Jb3JZdkczQUpLOVl4MGpVaklfcTJhVVpuNzk2VWQ0MGZ6N2ptcHF6dFdUem03V1NRY2hzOVJHa0llQ1prQVZmWTdJNHN5bDJYb2JUTy1oMHBWUFlLSnFneExmYzRLZERBZDc4dkswUWI5Smt5b0NLanVUTUQ?oc=5",
-          "published": "Mon, 10 Aug 2026 07:00:00 GMT",
-          "source": "Fortune Business Insights"
+          "label": "Industry event",
+          "value": "IMTS 2026",
+          "note": "September"
         },
         {
-          "title": "Advantech UNO 258 Leads the Way on Industrial Automation - Embedded Computing Design",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVHROc0VSbzVFLWJIX2t4NkRsYkk3WXRMVURlQk5SOGpRUkVGVkZZSWJhRE90RWxfdzJRV1lva1YxbDU3MWFRX2lGR3hiMldPWHl6ZnhYdnpjUHZUU25IZEpIQWE4amZSb2RXSFlXM0tWRmpOSzVrRnRvMXVxVEhrLXpWQ3lmSi1zaklsYTdnOHhVU3c4RnRKbzM3SFFONlpfM2hTVVhNOFJJYWh1RFc2YmtiOTBWQlJ4cTdXcWJUZEpTRkFlRFE5eg?oc=5",
-          "published": "Wed, 26 Aug 2026 14:17:20 GMT",
-          "source": "Embedded Computing Design"
+          "label": "Core pressure",
+          "value": "Workforce",
+          "note": "Skills availability"
         },
         {
-          "title": "Motion Controls Robotics Adds Proven Tire Manufacturing Automation Technologies - EIN Presswire",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMExybUpVX2dEb0VaVVp2TElGa09VbTRnTjdCOGhWT0Y0YklnSEtlR0Z6WDVpeXFwTUdpVEFqbmNuZ3lKZm5mUHVyVS05SDFLcGU0NVBQZ2M1ak9MRHg2VjhoVjZMWkpjZlpEN0VpdWhlbWxyWmJ1SmtfQ2RfamVWQUpSNWtZMVhGaG9HcHViWFBoakdxRm9hMkdmX19SZkdNM0Q4M3NuejdrdkluSGlYMDNEamNlQVB6eElZenBNNGF3QWt3?oc=5",
-          "published": "Thu, 13 Aug 2026 18:15:00 GMT",
-          "source": "EIN Presswire"
+          "label": "Investment theme",
+          "value": "Flexible",
+          "note": "Robotics and digital"
         }
+      ],
+      "summary": "Manufacturing expansion and workforce pressure support flexible automation, while customers continue to require clear ROI and repeatable integration.",
+      "brief": [
+        "Discrete manufacturers face expanding activity, skill constraints and greater product-mix complexity, supporting robotics, vision, motion and digital production.",
+        "Manufacturers increasingly want reusable cells and machine architectures supporting multiple products, faster changeovers and future expansion.",
+        "Differentiation comes from making flexibility and repeatability measurable through launch speed, quality, utilization and lifecycle support."
+      ],
+      "drivers": [
+        {
+          "name": "Flexible automation",
+          "score": 90
+        },
+        {
+          "name": "Robotics adoption",
+          "score": 87
+        },
+        {
+          "name": "Vision and quality",
+          "score": 83
+        },
+        {
+          "name": "Capital confidence",
+          "score": 70
+        },
+        {
+          "name": "Workforce availability",
+          "score": 42
+        },
+        {
+          "name": "Digital manufacturing",
+          "score": 81
+        }
+      ],
+      "leaders": [
+        "Flexible automation for greater product variety",
+        "Robotics, vision, motion and safety convergence",
+        "Digital engineering and virtual commissioning",
+        "Workforce development for advanced automation"
+      ],
+      "outlook": [
+        {
+          "case": "Base case",
+          "text": "Flexible automation investment continues around quality and labor outcomes."
+        },
+        {
+          "case": "Upside",
+          "text": "Manufacturing expansion accelerates reusable cell and line programs."
+        },
+        {
+          "case": "Downside",
+          "text": "Capacity programs slow while quality and productivity projects persist."
+        }
+      ],
+      "economics": "Manufacturing expansion supports automation demand, although input costs reward reusable cells and projects with clear quality, utilization and launch-speed outcomes.",
+      "opportunities": [
+        {
+          "title": "Flexible robotic cells",
+          "text": "Create reusable cells for assembly, tending and inspection."
+        },
+        {
+          "title": "Integrated motion and safety",
+          "text": "Simplify high-performance architectures."
+        },
+        {
+          "title": "Quality and traceability",
+          "text": "Connect vision, genealogy and production context."
+        },
+        {
+          "title": "Digital engineering",
+          "text": "Use simulation and reusable code to shorten launch."
+        }
+      ],
+      "sources": [
+        [
+          "A3",
+          "https://www.automate.org/"
+        ],
+        [
+          "SME",
+          "https://www.sme.org/"
+        ],
+        [
+          "AMT",
+          "https://www.amtonline.org/"
+        ],
+        [
+          "NAM",
+          "https://nam.org/"
+        ]
       ]
     },
     "packaging": {
       "name": "Packaging",
       "score": 81,
       "label": "Positive",
-      "summary": "Automated proof-of-concept data. The scheduled workflow refreshes the newsroom and evidence-based leadership topics.",
-      "leaders": [
-        "End-of-line robotics"
-      ],
-      "news": [
+      "accent": "#2e9d74",
+      "metrics": [
         {
-          "title": "U.S. Robotics Market for Packaging and Processing Poised to Nearly Double by 2031 - Packaging World",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNemJkZUk3Y3lPX2dNbjhvS0hBb0VfdUwzUjBBR21hbDMxRThlZ1I5cHpXVVVIVlBzNHdRMjNpSHZpQWgxa1B6bC04YjFfeWZGLWowSktmLU1GTXNUbEttTGxzVVg5MGRVWnFrVEh1eTZZTDNONFdNeUcyQ3d0MW5jZ05QdF9fTXZic1NJLW5UVFlTNHhmX1NzZ3dEdWVLSFQ5WGw5OHl1ZmpRSGw4Y1J2eUhVVDdWR0RPMW01S1BBUFNiUE5FX1g3bFZfX3d5a29sUlQ2b3dENzg5QmtTNy1PRlRFSk4yZ3o1V0Fv?oc=5",
-          "published": "Mon, 31 Aug 2026 15:17:08 GMT",
-          "source": "Packaging World"
+          "label": "U.S. shipments",
+          "value": "$11.7B",
+          "note": "2025 machinery"
         },
         {
-          "title": "PPMA Show 2026: unlocking next-generation packaging and production - Food and Drink Technology",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT3pja3JnaVVNM29IZXEwSUJ4VjhJMVFBN09CQS1MOHB1ZkxKRzRtaE5QNWloLU00dEVWMFhtRFZWMmFaN01BLVhZcVJJb1JHd3ZnU244Zkd0bnplZFV3NmlrYXpuUmhkVE1vNlJIMmFGQ2JUZUxqQk9BVVYyR3lvbE9FVERoTG1FYkM1SDdJVnlwVll6NlEzNlpZMEZEY0dJTmVFUmtaRlB4WEY0U2ZGQ1Rma3lqdmM?oc=5",
-          "published": "Wed, 02 Sep 2026 15:31:51 GMT",
-          "source": "Food and Drink Technology"
+          "label": "Shipment CAGR",
+          "value": "5.0%",
+          "note": "2025-2031"
         },
         {
-          "title": "Packaging, processing driving robotics tech adoption - Commercial Baking",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUFWSHFNSEhnVWdYdk1wWUtpRDljU0pBWDR6cUotOU55cmhGUGh6eUlGMkUtYmtHRFEzcWFOZXdadXlyY0FVdVRkamM2ajBCMnBmQXpBWHlUX002aWRBX1dmbGZNNXlQSlBFX0NWWWI2RENtVmlvcUJFcEVLRFNRSzk4eTJxN3lx?oc=5",
-          "published": "Tue, 01 Sep 2026 18:04:34 GMT",
-          "source": "Commercial Baking"
+          "label": "Plant investments",
+          "value": "48",
+          "note": "Major investments"
         },
         {
-          "title": "Mobile Robots Set to Dominate Packaging Industry by 2031 - Packaging World",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbUxHRmFMTzUwX1VKajFtLXZlcUxqZ1IxUWptdEFvMmlvanRneG5kWTA5UG1WckhzU0JHcXd1SjNFSTZlMlRKSjUwQkhScEFVR3ZwdS1OQ2NqRGVKVVQ5THFIOU80OWFKQVB6VEtMZkV0ZHJoTndndWVzSjBHNFZBS09aMlVEVk9rekpLZUs4bldmRXpZQ0NaV1hHYThlZ3N1U3BJWWtEc2tRck9RcVAtZENnUWduTGpKczVYRUg1dFNSTEJsdjBYcw?oc=5",
-          "published": "Fri, 28 Aug 2026 17:00:53 GMT",
-          "source": "Packaging World"
+          "label": "Leading priority",
+          "value": "Productivity",
+          "note": "PMMI research"
         },
         {
-          "title": "AI-Assisted Robots Optimize Packaging Production Lines - Packaging Digest",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS0ptR2tWb3QxanJJZmVvdkplWWlhOTlvcU5FTjBrSmQyVXE2b2JqRzZQUF9OVldfY1dxbzZ4SmJwSm5hbHVzZHdnNC1YU1VWZl84UVcySkxhRVdjV0x4T1Y1cm5nbGk1VGxDS1FmZVVHR09lTnVMNmdfeWxmMVVRZ0MySU1yWHZsVTBSN2hkMnNaUV9iaGtsV2JuQzBHZw?oc=5",
-          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
-          "source": "Packaging Digest"
+          "label": "Growth theme",
+          "value": "Aftermarket",
+          "note": "Parts and lifecycle"
         }
+      ],
+      "summary": "Packaging machinery demand remains favorable as flexibility, robotics and lifecycle services address SKU complexity, labor pressure and resilience.",
+      "brief": [
+        "Packaging operations must handle more variety, shorter runs, workforce turnover and changing materials while maintaining throughput and quality.",
+        "Customers increasingly value mix-adjusted throughput, maintainability and rapid recovery rather than maximum rated speed alone.",
+        "Lifecycle value is a larger part of OEM differentiation as obsolescence and knowledge loss create operating risk."
+      ],
+      "drivers": [
+        {
+          "name": "Machinery demand",
+          "score": 84
+        },
+        {
+          "name": "Flexible automation",
+          "score": 91
+        },
+        {
+          "name": "Robotics and end-of-line",
+          "score": 88
+        },
+        {
+          "name": "Capital confidence",
+          "score": 72
+        },
+        {
+          "name": "Workforce knowledge",
+          "score": 40
+        },
+        {
+          "name": "Sustainability adaptation",
+          "score": 82
+        }
+      ],
+      "leaders": [
+        "Flexibility versus maximum rated speed",
+        "End-of-line robotics and mobile automation",
+        "Obsolescence and aftermarket lifecycle support",
+        "Sustainability requirements changing OEM specifications"
+      ],
+      "outlook": [
+        {
+          "case": "Base case",
+          "text": "Flexible machinery and lifecycle services support steady growth."
+        },
+        {
+          "case": "Upside",
+          "text": "CPG investment accelerates new lines and robotics."
+        },
+        {
+          "case": "Downside",
+          "text": "Retrofit and obsolescence work holds up as new lines slow."
+        }
+      ],
+      "economics": "CPG production remains resilient, while SKU proliferation, labor pressure and changing materials support flexible machinery and lifecycle investment.",
+      "opportunities": [
+        {
+          "title": "Modular machine architecture",
+          "text": "Standardize controls, motion, safety and data."
+        },
+        {
+          "title": "Rapid changeover",
+          "text": "Reduce setup losses through coordinated motion and recipes."
+        },
+        {
+          "title": "End-of-line automation",
+          "text": "Integrate robotics, palletizing and conveyance."
+        },
+        {
+          "title": "Lifecycle services",
+          "text": "Convert installed-base knowledge into proactive upgrades."
+        }
+      ],
+      "sources": [
+        [
+          "PMMI",
+          "https://www.pmmi.org/"
+        ],
+        [
+          "PMMI Industry Reports",
+          "https://www.pmmi.org/business-intelligence/industry-reports"
+        ],
+        [
+          "Packaging World",
+          "https://www.packworld.com/"
+        ],
+        [
+          "IoPP",
+          "https://www.iopp.org/"
+        ]
       ]
     },
     "converting-printing-web": {
       "name": "Converting, Printing & Web",
       "score": 76,
       "label": "Positive",
-      "summary": "Automated proof-of-concept data. The scheduled workflow refreshes the newsroom and evidence-based leadership topics.",
-      "leaders": [
-        "Workflow automation"
-      ],
-      "news": [
+      "accent": "#008c95",
+      "metrics": [
         {
-          "title": "Loupe Americas 2026 preview - Labels & Labeling",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRnIwQ01Ycm5JVlpNU1ZCTFZjcjVqQ0hzS2JHNnNRUzBHb19RY0pzM2tVYjVTZFlYZHlnclFFOU5MNVFYQUY4dmZEQnRpVm9qNjNaUnQ2Y1JUMGdRWDFWX3gyN3R1TkJ0MVlYaWE1WjA2TU8wQXUyNWtBSmJubHVZZEh2NkVqZm14T3I1WC1GU0dRVm1S?oc=5",
-          "published": "Wed, 19 Aug 2026 12:00:00 GMT",
-          "source": "Labels & Labeling"
+          "label": "ARC organizations",
+          "value": "248",
+          "note": "Across 36 countries"
         },
         {
-          "title": "Discover how BW Converting combines engineering expertise with enhanced automation to deliver pioneering products - Manufacturing Today",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPc3NvLTRiU1RfTlZIN04wM2NEY2pCWTNPLURUWXVmTHEwWHlYX3FBdnJXYTQyeHpFWHF5R0VwSm5WTzVQajJYajRReXRjTHF6M3FWYVVpdXpsblpvNk1zcW5HVHExYjNjZnR4VG1QR0VDMTcxRlZDaTdBeGxXeGFPZVY1Z0FkLXBNbmJHQ0wxdF9wNGdUeXNEdnUyaHlmWW1mbkR0eXV1LXI3VGxnSkh3VUl5ejZTNWZ1WXNMdmxmMHFRYVdXVUpFRkpsVDc1cHVrVFM4NkpfM29QcjhtU2RjYTlwZnJrZw?oc=5",
-          "published": "Thu, 12 Mar 2026 07:00:00 GMT",
-          "source": "Manufacturing Today"
+          "label": "ARC members",
+          "value": "4,000+",
+          "note": "Active community"
         },
         {
-          "title": "Digital Printing for Flexible Packaging Market Size & Forecast 2036 - Fact.MR",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcWMzMGQ3M3l3U0RFaVdiZUhJQVY0QUNzd2dkaUY1SE9IMzlFVVM5bFBER3cxNzQxRU44bmdmMWxjMDJjM3ZYa3gwbjNZUDY5ZVg3ZkhSRkc3b2FWOGlja1B5QkZuQXAxRGtaSkFseFFaUFE1YXNHQUVyeEV3T0VWUnd3?oc=5",
-          "published": "Tue, 11 Aug 2026 13:41:42 GMT",
-          "source": "Fact.MR"
+          "label": "Expo exhibitors",
+          "value": "800+",
+          "note": "PRINTING United 2026"
         },
         {
-          "title": "Applied Manufacturing Technologies and FANUC to Highlight Collaborative Mixed-Load Handling at Automate 2026 - PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd2JkWm9tMml0ZHd1dlZHR3ZTSENMTV81RUJYWkZBbDZPaFMyaHVQR0tOeHhyM214bWV4ZXdRaVVxc1ltOF92b2stcEhBb3FqWnJCZVVORmtuU05mdEcxTmVHOE9pNGNjQl9mMXhzaXNZdzJoUWpqWUpwZnQ0WjgtZWVxQXhoLU43cEZ6aHRuUHZfc3FuMnZudHp1ZGRtSElONmtiSUUtZlExaVZHT1lHc3didF8xbklNaUk3YzNCSm0wNUNseUJVUXExWjZJbVBMUEpsX1YxdkxyZTQ5SXlpSWE3RDRtaGZqaTF4YnlrWkdDNDcwaUc0?oc=5",
-          "published": "Wed, 10 Jun 2026 07:00:00 GMT",
-          "source": "PR Newswire"
+          "label": "Core pressure",
+          "value": "Short runs",
+          "note": "Setup and waste"
         },
         {
-          "title": "A.Celli Showcasing Latest Solutions for Nonwoven Production - Nonwovens Industry",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORTdPOHdfRGlHOWdqMFBsT2dOaEhnZDk4eFVGZWF5d2pReDhETzhwYjEwQXBYcVEzdGdFYlNNdWdqVTZlTndPalQzT2hzMHpIQ0QtdXZZamg4bHhIeXNEcTRvN1E1cTFQX2NaWWVVb2RWeHN5dVN2X0xXcUYwUzFNbGhKb1JQMG9pVm9xMG1XVGcxdFUybkFJbEszVGxnbEpDT3I3MnF0OXpNdFRXdlRKRg?oc=5",
-          "published": "Thu, 21 May 2026 05:09:43 GMT",
-          "source": "Nonwovens Industry"
+          "label": "Technology theme",
+          "value": "Precision",
+          "note": "Web and quality"
         }
+      ],
+      "summary": "Precision automation, inspection and workflow modernization support productivity as shorter runs and substrate complexity reshape economics.",
+      "brief": [
+        "Converting and web operations are adapting to shorter quantities, customization, evolving substrates and pressure to reduce waste.",
+        "Small variations in tension, registration, coating weight or winding can create quality losses that compound rapidly.",
+        "Digital and conventional workflows are converging across printing, coating, laminating, slitting and finishing."
+      ],
+      "drivers": [
+        {
+          "name": "Workflow automation",
+          "score": 83
+        },
+        {
+          "name": "Web handling performance",
+          "score": 89
+        },
+        {
+          "name": "Inspection and quality",
+          "score": 86
+        },
+        {
+          "name": "Capital confidence",
+          "score": 66
+        },
+        {
+          "name": "Workforce availability",
+          "score": 44
+        },
+        {
+          "name": "Sustainability adaptation",
+          "score": 78
+        }
+      ],
+      "leaders": [
+        "Shorter runs changing production economics",
+        "Tension, registration and web-control performance",
+        "Inline inspection and startup-waste reduction",
+        "New substrates, coatings and roll-to-roll applications"
+      ],
+      "outlook": [
+        {
+          "case": "Base case",
+          "text": "Automation and inspection improve yield and flexibility."
+        },
+        {
+          "case": "Upside",
+          "text": "Advanced coatings and new roll-to-roll applications expand demand."
+        },
+        {
+          "case": "Downside",
+          "text": "Efficiency and quality investment continues despite slower capacity."
+        }
+      ],
+      "economics": "Material prices, waste, run length and application mix directly affect margins. Automation improving first-pass yield and setup remains defensible.",
+      "opportunities": [
+        {
+          "title": "Precision web control",
+          "text": "Coordinate drives, tension zones and winding."
+        },
+        {
+          "title": "Inline inspection",
+          "text": "Connect vision and process data to reduce waste."
+        },
+        {
+          "title": "Workflow integration",
+          "text": "Link job data, setup parameters and quality records."
+        },
+        {
+          "title": "Lifecycle modernization",
+          "text": "Upgrade controls, drives and safety during planned outages."
+        }
+      ],
+      "sources": [
+        [
+          "ARC",
+          "https://www.rolltoroll.org/"
+        ],
+        [
+          "PRINTING United Alliance",
+          "https://www.printing.org/"
+        ],
+        [
+          "Converting Quarterly",
+          "https://convertingquarterly.com/"
+        ],
+        [
+          "PFFC",
+          "https://www.pffc-online.com/"
+        ]
       ]
     }
   }
