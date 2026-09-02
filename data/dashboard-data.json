@@ -1,0 +1,84 @@
+{
+  "last_refreshed": "2026-09-02T18:00:00Z",
+  "refresh_mode": "GitHub Actions: weekly newsroom, monthly full refresh",
+  "segments": {
+    "material-handling": {
+      "name": "Material Handling",
+      "score": 72,
+      "label": "Constructive",
+      "summary": "Automated proof-of-concept data. The scheduled workflow refreshes the newsroom and evidence-based leadership topics.",
+      "leaders": [
+        "warehouse automation",
+        "intralogistics",
+        "ASRS",
+        "AMR"
+      ],
+      "news": []
+    },
+    "process": {
+      "name": "Process",
+      "score": 72,
+      "label": "Constructive",
+      "summary": "Automated proof-of-concept data. The scheduled workflow refreshes the newsroom and evidence-based leadership topics.",
+      "leaders": [
+        "process automation",
+        "instrumentation",
+        "DCS",
+        "industrial cybersecurity"
+      ],
+      "news": []
+    },
+    "heavy-industries": {
+      "name": "Heavy Industries",
+      "score": 72,
+      "label": "Constructive",
+      "summary": "Automated proof-of-concept data. The scheduled workflow refreshes the newsroom and evidence-based leadership topics.",
+      "leaders": [
+        "mining automation",
+        "metals industry",
+        "cement automation",
+        "critical minerals"
+      ],
+      "news": []
+    },
+    "manufacturing-assembly": {
+      "name": "Manufacturing & Assembly",
+      "score": 78,
+      "label": "Positive",
+      "summary": "Automated proof-of-concept data. The scheduled workflow refreshes the newsroom and evidence-based leadership topics.",
+      "leaders": [
+        "manufacturing automation",
+        "industrial robotics",
+        "machine vision",
+        "digital manufacturing"
+      ],
+      "news": []
+    },
+    "packaging": {
+      "name": "Packaging",
+      "score": 81,
+      "label": "Positive",
+      "summary": "Automated proof-of-concept data. The scheduled workflow refreshes the newsroom and evidence-based leadership topics.",
+      "leaders": [
+        "packaging machinery",
+        "packaging robotics",
+        "PMMI",
+        "end of line automation"
+      ],
+      "news": []
+    },
+    "converting-printing-web": {
+      "name": "Converting, Printing & Web",
+      "score": 76,
+      "label": "Positive",
+      "summary": "Automated proof-of-concept data. The scheduled workflow refreshes the newsroom and evidence-based leadership topics.",
+      "leaders": [
+        "web handling",
+        "roll to roll converting",
+        "printing automation",
+        "coating laminating"
+      ],
+      "news": []
+    }
+  }
+}
