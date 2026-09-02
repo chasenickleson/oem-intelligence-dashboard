@@ -1,107 +1,107 @@
 {
-  "last_refreshed": "2026-09-02T18:00:00Z",
+  "last_refreshed": "2026-09-02T19:30:42.583097Z",
   "segments": {
     "material-handling": {
       "name": "Material Handling",
-      "score": 72,
-      "label": "Constructive",
+      "score": 75,
+      "label": "Positive",
       "accent": "#cd163f",
       "metrics": [
         {
-          "label": "Automated material handling market",
-          "value": "$33.39B",
-          "note": "2025 estimate"
+          "label": "Composite sentiment",
+          "value": "75",
+          "note": "Positive"
         },
         {
-          "label": "2030 forecast",
-          "value": "$51.22B",
-          "note": "8.9% CAGR"
+          "label": "Articles analyzed",
+          "value": "20",
+          "note": "Current monthly evidence set"
         },
         {
-          "label": "MODEX attendance",
-          "value": "50,000",
-          "note": "2026 visitors"
+          "label": "Positive signal share",
+          "value": "100%",
+          "note": "Headline-language indicator"
         },
         {
-          "label": "Labor pressure",
-          "value": "90%",
-          "note": "Organizations impacted"
+          "label": "Technology signal",
+          "value": "95",
+          "note": "Rules-based evidence score"
         },
         {
           "label": "Investment posture",
           "value": "Disciplined",
-          "note": "ROI-led"
+          "note": "September 2026"
         }
       ],
-      "summary": "Automation demand remains supported by labor pressure, resilience planning and service expectations, while financing, tariffs and integration risk keep investment disciplined.",
+      "summary": "The Material Handling signal is positive at 75. Current evidence shows more growth and investment signals than constraints. Technology adoption remains strong, while capital conversion remains disciplined.",
       "brief": [
-        "The material handling and warehouse automation market is entering a more favorable period after several years of normalization and delayed capital decisions. The underlying need for automation remains strong because customers continue to face labor constraints, fulfillment complexity and pressure to build more resilient supply chains.",
-        "Competitive advantage is shifting from installing individual technologies toward integrating complete operating systems. Customers increasingly expect conveyors, AS/RS, robotics, AMRs, controls, safety and warehouse software to work together with common diagnostics, useful data and a credible lifecycle model.",
-        "The strongest near-term opportunities are scalable brownfield modernization, connected material-flow systems, robotics that address labor and safety constraints, and lifecycle services that address obsolescence and cybersecurity."
+        "The monthly evidence set places Material Handling at a positive composite score of 75. The balance of current headlines and source signals indicates Current evidence shows more growth and investment signals than constraints. Technology adoption remains strong, while capital conversion remains disciplined.",
+        "Leadership attention is concentrating on Robotics at scale, Mixed-fleet orchestration. These themes were selected from repeated terms in the current segment-specific evidence set, then mapped to the dashboard's established strategic taxonomy.",
+        "For OEMs, the practical implication is to pursue opportunities with measurable operating outcomes and a clear implementation path. The current investment posture is disciplined, so reusable architecture, lifecycle confidence and proof of value remain important to conversion."
       ],
       "drivers": [
         {
-          "name": "Automation demand",
-          "score": 86
+          "name": "Market demand",
+          "score": 80
         },
         {
-          "name": "AI and real-time data",
-          "score": 82
+          "name": "Technology adoption",
+          "score": 95
         },
         {
           "name": "Capital confidence",
-          "score": 61
+          "score": 56
         },
         {
           "name": "Workforce availability",
-          "score": 34
+          "score": 56
         },
         {
-          "name": "Trade clarity",
-          "score": 29
+          "name": "External risk clarity",
+          "score": 62
         },
         {
-          "name": "Resilience priority",
-          "score": 78
+          "name": "Strategic resilience",
+          "score": 60
         }
       ],
       "leaders": [
-        "Scaling robotics beyond pilot projects",
-        "Orchestrating mixed fleets and automation technologies",
-        "Modular and decentralized architectures",
-        "Lifecycle support for software-dependent systems"
+        "Robotics at scale",
+        "Mixed-fleet orchestration",
+        "Lifecycle performance",
+        "Modular architecture"
       ],
       "outlook": [
         {
           "case": "Base case",
-          "text": "Disciplined investment continues in projects with clear throughput, labor, reliability and service-level outcomes."
+          "text": "The Material Handling market remains positive, with disciplined conversion around measurable outcomes."
         },
         {
           "case": "Upside",
-          "text": "Lower financing friction, reshoring and stronger logistics activity accelerate greenfield and multi-site programs."
+          "text": "A stronger demand mix and improving capital confidence accelerate scalable modernization and new capacity."
         },
         {
           "case": "Downside",
-          "text": "Tariff or financial volatility delays large projects while retrofit, service and productivity work remains active."
+          "text": "Cost, trade or financing pressure delays larger projects while service, retrofit and essential reliability work remain active."
         }
       ],
-      "economics": "Manufacturing expansion, reshoring and renewed warehouse investment support demand. Elevated input costs, financing conditions and tariffs keep customers focused on measurable throughput, labor, space and uptime outcomes.",
+      "economics": "The current evidence set contains 4 positive-growth references and 0 constraint references across 20 selected items. The resulting capital-confidence score is 56, with a disciplined investment posture. This is a directional headline-based indicator rather than an official economic index; use the linked ISM and Federal Reserve sources for primary economic data.",
       "opportunities": [
         {
-          "title": "Modular automation",
-          "text": "Repeatable modules and phased deployment reduce engineering and project risk."
+          "title": "Robotics at scale",
+          "text": "Highest-ranked leadership theme in the current monthly evidence set."
         },
         {
           "title": "Mixed-fleet orchestration",
-          "text": "Connect conveyors, AS/RS, robotics, AMRs and software around shared diagnostics."
+          "text": "Second-ranked recurring theme with direct relevance to OEM differentiation."
         },
         {
           "title": "Lifecycle modernization",
-          "text": "Turn cybersecurity, obsolescence and installed-base knowledge into recurring value."
+          "text": "Use installed-base visibility, serviceability and migration planning to reduce customer risk."
         },
         {
-          "title": "Energy-aware motion",
-          "text": "Quantify energy, condition and performance across drives, motors and material-flow assets."
+          "title": "Scalable architecture",
+          "text": "Translate demand into reusable controls, data, safety and application patterns."
         }
       ],
       "sources": [
@@ -141,109 +141,142 @@
           "Logistics Management",
           "https://www.logisticsmgmt.com/"
         ]
-      ]
+      ],
+      "news": [
+        {
+          "title": "Swisslog to showcase next-generation warehouse automation for faster, more scalable logistics in Riyadh - The National Law Review",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLXpEejQyNl8tUGNDV2tWZ3dlWXpNSWIwMTNHZDMtUjB5YzgtNTlFZEhhRVMtdnFfaUp5b1EyYzFMM3ZqWDk4ZkdxVVU2R0NwM2JCaGNFZ01XMVJONGIzT1dxMmhtaDl4MGhUM2F4dmVleVRqQktfMEhXaER6SXZfUTRQeDcwQjZoc0hLd1FPWVZXNmhtSTZiSGEyZkFzbnkzSklSazgxTTVVSXFhazVkU0szSEVfZw?oc=5",
+          "published": "Wed, 02 Sep 2026 10:12:56 GMT",
+          "source": "The National Law Review"
+        },
+        {
+          "title": "Vadzo Imaging Positions Falcon-900MGS: 3MP Sony Pregius S IMX900 Global Shutter Monochrome USB Camera with Quad Shutter Control for Forklift Automation - Newswire.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcDMxRjZDeFp0N2JJTVJDQ0JBOUtmeXNsLW1XcWgwcnZMbm45SnhDdml6dm15UnZ4d3FJVHU5SUlxNFczTGVHSXJReDBjZUtqYzZROTJzdmh6R0tZVFExdXkzMTBDWm1feVZPUS1ueFNOWVVVS3ZZTWg3RVFucW8zS0hITzc0enRZX2dveFZhNG91Q3hSdEVXRE9VZHh4MnlWYlRzcDVCbjAxdU41cUE?oc=5",
+          "published": "Wed, 02 Sep 2026 15:00:00 GMT",
+          "source": "Newswire.com"
+        },
+        {
+          "title": "How Multiway Robotics Transformed a Malaysian Manufacturer's High-Bay Smart Warehouse with 5,000+ Storage Locations - Robotics Tomorrow",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMmpuTkdwMUNzOE9tR2RYWjZZS3I5c2xlOE40Rk4yai1OV0tyRmExS1c0NExmaExBalZOU2UwS0lMUDVyeC00N2p5bm1Ea0VOaER6VF9ETVFSd3I2WXVBejlBMkp6SzZNT2U0MGhVLXdYc3FPdEdlVl9ETDhrNzRZdnllVUh3eG81TUkxSWo3V0JhZy1GZ1RSRi03MnJHQ0phaDd5NXRueHlRUF9aTFQ4NVRLbmhnUGNXUFJ1Uk5sU0hmLWxBMzQ5S2tYajFlT2NzSThCS3EzTHZ6eldSU2dRV2NER1dWU1VXRE13c2tZenk5R2UyVWlHZGhTOA?oc=5",
+          "published": "Tue, 01 Sep 2026 12:43:44 GMT",
+          "source": "Robotics Tomorrow"
+        },
+        {
+          "title": "Warehouse Operators Accelerate Automation - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQW0yRTF6RGdoRlRrQ01jY3h5VUNIbVBFZTk4ZDBJbUh0LWRYM2J6anp2M0hVYmFhZU9VcVRJUExFYXRNMlJNRzZJTURtVnBwV21JZ1gwdkFacHpualBNUHhuOFJ1THQxUXdBeVNFMnJUaVdGM0djcDV5bF84YWgybnQ1M2czUVkwMEVDeGZSNW4?oc=5",
+          "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+          "source": "WSJ"
+        },
+        {
+          "title": "Beyond Automation for System Integration - logisticsbusiness.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV3EzNjZJaUgtekFZdDJGQUVaZ3FRVFo1di1uekhReFQzcUJpcXZGQ0hQMGppN19TSWcwdEVJSFBRR1lHa1kxb0pLRDAyZEw0ZmZiQlhzZndHZlZFRkZPaWRCVWo5TWFKTmdfTkNVZkRiWmJPQXdONXEyektTM2l2OEctMGFiYUYxbVY1V2Zrdi1oTnBzRWdYakdnNUxWMU9Yd0FkZWd1aDdocXFvSnE1MC1vQnVWMHJCMkE?oc=5",
+          "published": "Mon, 31 Aug 2026 23:46:32 GMT",
+          "source": "logisticsbusiness.com"
+        }
+      ],
+      "automation_note": "Automatically generated from public headline metadata using transparent rules. Review before external distribution."
     },
     "process": {
       "name": "Process",
-      "score": 74,
+      "score": 72,
       "label": "Constructive",
       "accent": "#f58025",
       "metrics": [
         {
-          "label": "Professional anchor",
-          "value": "ISA",
-          "note": "Standards and knowledge"
+          "label": "Composite sentiment",
+          "value": "72",
+          "note": "Constructive"
         },
         {
-          "label": "Automation audience",
-          "value": "140K+",
-          "note": "Monthly professionals"
+          "label": "Articles analyzed",
+          "value": "20",
+          "note": "Current monthly evidence set"
         },
         {
-          "label": "Manufacturing PMI",
-          "value": "54.6",
-          "note": "Current snapshot"
+          "label": "Positive signal share",
+          "value": "80%",
+          "note": "Headline-language indicator"
         },
         {
-          "label": "Core priority",
-          "value": "Cybersecurity",
-          "note": "Secure by design"
+          "label": "Technology signal",
+          "value": "95",
+          "note": "Rules-based evidence score"
         },
         {
           "label": "Investment posture",
-          "value": "Phased",
-          "note": "Brownfield-first"
+          "value": "Disciplined",
+          "note": "September 2026"
         }
       ],
-      "summary": "Secure, phased modernization is supported by reliability, cybersecurity and workforce priorities, while brownfield complexity keeps investment disciplined.",
+      "summary": "The Process signal is constructive at 72. Current evidence shows more growth and investment signals than constraints. Technology adoption remains strong, while capital conversion remains disciplined.",
       "brief": [
-        "Process industries continue to face a compelling modernization need driven by aging controls, cybersecurity exposure, limited engineering resources and the loss of experienced operators.",
-        "Industrial AI and analytics gain credibility when grounded in process context and integrated into existing work practices. Interoperability and secure connectivity enable phased modernization rather than disruptive replacement.",
-        "The strongest opportunities are secure control migration, connected asset performance, energy optimization, operator enablement and standardized skid architectures."
+        "The monthly evidence set places Process at a constructive composite score of 72. The balance of current headlines and source signals indicates Current evidence shows more growth and investment signals than constraints. Technology adoption remains strong, while capital conversion remains disciplined.",
+        "Leadership attention is concentrating on Industrial AI in context, Brownfield modernization. These themes were selected from repeated terms in the current segment-specific evidence set, then mapped to the dashboard's established strategic taxonomy.",
+        "For OEMs, the practical implication is to pursue opportunities with measurable operating outcomes and a clear implementation path. The current investment posture is disciplined, so reusable architecture, lifecycle confidence and proof of value remain important to conversion."
       ],
       "drivers": [
         {
-          "name": "Secure modernization",
-          "score": 88
+          "name": "Market demand",
+          "score": 68
         },
         {
-          "name": "Industrial AI outcomes",
-          "score": 81
-        },
-        {
-          "name": "Reliability investment",
-          "score": 84
+          "name": "Technology adoption",
+          "score": 95
         },
         {
           "name": "Capital confidence",
-          "score": 62
+          "score": 54
         },
         {
-          "name": "Workforce readiness",
-          "score": 48
+          "name": "Workforce availability",
+          "score": 70
         },
         {
-          "name": "Energy efficiency",
-          "score": 79
+          "name": "External risk clarity",
+          "score": 57
+        },
+        {
+          "name": "Strategic resilience",
+          "score": 60
         }
       ],
       "leaders": [
-        "Applying AI within process context",
-        "Modernizing brownfield systems without disrupting production",
-        "ISA/IEC 62443-aligned cybersecurity",
-        "Preserving operator knowledge and process expertise"
+        "Industrial AI in context",
+        "Brownfield modernization",
+        "OT cybersecurity",
+        "Workforce knowledge"
       ],
       "outlook": [
         {
           "case": "Base case",
-          "text": "Phased modernization continues around reliability, security and lifecycle risk."
+          "text": "The Process market remains constructive, with disciplined conversion around measurable outcomes."
         },
         {
           "case": "Upside",
-          "text": "Improved confidence accelerates control migration and connected asset programs."
+          "text": "A stronger demand mix and improving capital confidence accelerate scalable modernization and new capacity."
         },
         {
           "case": "Downside",
-          "text": "Capacity projects slow while compliance and reliability work continues."
+          "text": "Cost, trade or financing pressure delays larger projects while service, retrofit and essential reliability work remain active."
         }
       ],
-      "economics": "Industrial expansion supports process demand, but energy, regulatory requirements, input costs and brownfield execution risk favor phased programs with measurable reliability outcomes.",
+      "economics": "The current evidence set contains 4 positive-growth references and 1 constraint references across 20 selected items. The resulting capital-confidence score is 54, with a disciplined investment posture. This is a directional headline-based indicator rather than an official economic index; use the linked ISM and Federal Reserve sources for primary economic data.",
       "opportunities": [
         {
-          "title": "Secure control modernization",
-          "text": "Create migration paths that improve lifecycle and data access without destabilizing production."
+          "title": "Industrial AI in context",
+          "text": "Highest-ranked leadership theme in the current monthly evidence set."
         },
         {
-          "title": "Connected asset performance",
-          "text": "Unify process, condition and maintenance context."
+          "title": "Brownfield modernization",
+          "text": "Second-ranked recurring theme with direct relevance to OEM differentiation."
         },
         {
-          "title": "Skid standardization",
-          "text": "Deliver reusable modules with consistent controls and diagnostics."
+          "title": "Lifecycle modernization",
+          "text": "Use installed-base visibility, serviceability and migration planning to reduce customer risk."
         },
         {
-          "title": "Workforce enablement",
-          "text": "Embed guided troubleshooting, simulation and remote expertise."
+          "title": "Scalable architecture",
+          "text": "Translate demand into reusable controls, data, safety and application patterns."
         }
       ],
       "sources": [
@@ -263,109 +296,142 @@
           "Control Global",
           "https://www.controlglobal.com/"
         ]
-      ]
+      ],
+      "news": [
+        {
+          "title": "Asia-Pacific Process Automation and Instrumentation Market Size, Share,Trends, Growth Analysis Report, 2029 - marketsandmarkets.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX3MzUEl3ZE5IZHFVRTVXWDF0OURvT3NmNHhSUXI4eFdMTkJzVmkyOG1xaWgyY3BFMzRBTDJSZUE3NkJxbTc2ZUN6dzVJeDFSUGFCMFA3LWxwQkJKNlZsR1Q2cmJ6U09Zd0t3WHJGdGp5YVBqOVRSYWdqcmNfd1Vwb0stWFlubmlIODkzczFuVldQNGtxaF9LN2J0cG5pQQ?oc=5",
+          "published": "Sun, 23 Aug 2026 08:59:53 GMT",
+          "source": "marketsandmarkets.com"
+        },
+        {
+          "title": "Hisaka Works Advances Energy-Efficient Industry Through Heat Exchange, Automation and Reliability - The Worldfolio",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZUJTekFGNGtKMGZaQzRoQ3g0WUxpS2JpSXZxTUFscUJKekNMTEdyWW43Z3o5dnZYZzJVTTNGQ25hbW5aTDdNeV9aaE5LNmV1ck9hQXZIQnVWV09ZMC1lUWFJVnU2ZzhmWlE0TkI2X1MtRGtmTTdGWjdBUk4xOTVTOFVPZFNESWwxc1FUSllNMjdoaExiV09PcVR2U3RSbnRYNHdObkotYVFVcThMa0kyY2d5VVlfNWxTVnRYeW5uVEVCWmprbWVQV0F4Vlg2MWpLamtvdVBvMjZUQQ?oc=5",
+          "published": "Tue, 01 Sep 2026 08:50:49 GMT",
+          "source": "The Worldfolio"
+        },
+        {
+          "title": "Industrial Automation Services Market Size, Share [2026-2034] - Fortune Business Insights",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ2tWM1dkT2ZXVnF0enpoVGZkWmdTY3gxQVk1SDB4dmYtUjBZamNKQXhVa0R1Zk5sSGZ1TTdwaXlaLVlkNXMtcTlQNHlNeXBjSlNqem9mS2Z6cmMxWXVSeTZQYlRJTTNXZks2VFllYlFBX1U0N0JDbmNMR1NmSmNCM0tfTVRBRV9XT1p0cA?oc=5",
+          "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+          "source": "Fortune Business Insights"
+        },
+        {
+          "title": "How Dow Is Turning Automation into a Strategic Engine for Scalable AI - Oil & Gas IQ",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWWY0QzBCYk9BLUZ3b0piYkRXRmRzYXU3bS1EblRVaDVnLXU4WElCUDNQSHdmenRPeDVaWWloNlhaRDJ1aDY5djZqVWE1ZEJFbEdYbzV5RGFQM3VlTW1nVHVlTURpemRPS0RWZjVSQXBidlJXNUNBWGxlamVHZFhmTWhtYjJTYzQ2WnF5LTBITlJCNUhsX25KWV9CbEtNZFQwbTVnbm5NN0FUMzlDSUxqaQ?oc=5",
+          "published": "Fri, 21 Aug 2026 16:38:42 GMT",
+          "source": "Oil & Gas IQ"
+        },
+        {
+          "title": "Process Automation and Instrumentation Market to Reach USD 2.0 Billion by 2035 as Smart Manufacturing Accelerate Global Industrial Transformation - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcXNzVmdGdlA2a3VCY0x6WmZLUjBsbUFYSUFGQ1h0aE1GZUo2ellXdlZfaTNtbF9oLVhxMV9IT3p0S21PUkNXcDZHcGM4X1dtY3hHMG5nX0RnVWxyVC1GTXF0bXBqVEpZalpBaEJmUjZaX3pVTFVlN2RlWG9JTkN1XzdHYlhCdW8tZGJ4ZXVHNkhBYlpWR2w2aWxFUkRlMFBhcmR4WHhrZV9RQ0ZrNy0zb2VLM2U2bFk?oc=5",
+          "published": "Wed, 20 May 2026 07:00:00 GMT",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "automation_note": "Automatically generated from public headline metadata using transparent rules. Review before external distribution."
     },
     "heavy-industries": {
       "name": "Heavy Industries",
-      "score": 67,
+      "score": 72,
       "label": "Constructive",
       "accent": "#775da6",
       "metrics": [
         {
-          "label": "2026 posture",
-          "value": "Guarded growth",
-          "note": "Investment with discipline"
+          "label": "Composite sentiment",
+          "value": "72",
+          "note": "Constructive"
         },
         {
-          "label": "Core demand",
-          "value": "Critical minerals",
-          "note": "Supply security"
+          "label": "Articles analyzed",
+          "value": "20",
+          "note": "Current monthly evidence set"
         },
         {
-          "label": "Asset priority",
-          "value": "Reliability",
-          "note": "Uptime first"
+          "label": "Positive signal share",
+          "value": "100%",
+          "note": "Headline-language indicator"
         },
         {
-          "label": "Operating pressure",
-          "value": "Energy",
-          "note": "Efficiency and emissions"
+          "label": "Technology signal",
+          "value": "95",
+          "note": "Rules-based evidence score"
         },
         {
-          "label": "Project bias",
-          "value": "Brownfield",
-          "note": "Debottleneck"
+          "label": "Investment posture",
+          "value": "Disciplined",
+          "note": "September 2026"
         }
       ],
-      "summary": "Critical-material demand supports long-term investment, while commodity volatility and project complexity favor reliability and selective brownfield work.",
+      "summary": "The Heavy Industries signal is constructive at 72. Current evidence shows more growth and investment signals than constraints. Technology adoption remains strong, while capital conversion remains disciplined.",
       "brief": [
-        "Heavy industries benefit from durable demand drivers tied to infrastructure, electrification and regional supply security, but commodity cycles and high capital intensity make the market selective.",
-        "Operators emphasize reliability, debottlenecking, safety and energy performance. Aging assets raise the value of condition monitoring, resilient controls and planned lifecycle modernization.",
-        "The strongest positioning combines domain knowledge with robust architectures that remain supportable over long asset lives."
+        "The monthly evidence set places Heavy Industries at a constructive composite score of 72. The balance of current headlines and source signals indicates Current evidence shows more growth and investment signals than constraints. Technology adoption remains strong, while capital conversion remains disciplined.",
+        "Leadership attention is concentrating on Energy economics, Autonomous operations. These themes were selected from repeated terms in the current segment-specific evidence set, then mapped to the dashboard's established strategic taxonomy.",
+        "For OEMs, the practical implication is to pursue opportunities with measurable operating outcomes and a clear implementation path. The current investment posture is disciplined, so reusable architecture, lifecycle confidence and proof of value remain important to conversion."
       ],
       "drivers": [
         {
-          "name": "Critical-material demand",
-          "score": 82
+          "name": "Market demand",
+          "score": 80
         },
         {
-          "name": "Brownfield modernization",
-          "score": 86
+          "name": "Technology adoption",
+          "score": 95
         },
         {
-          "name": "Greenfield confidence",
-          "score": 55
+          "name": "Capital confidence",
+          "score": 50
         },
         {
           "name": "Workforce availability",
-          "score": 43
+          "score": 70
         },
         {
-          "name": "Commodity visibility",
-          "score": 39
+          "name": "External risk clarity",
+          "score": 62
         },
         {
-          "name": "Autonomous operations",
-          "score": 75
+          "name": "Strategic resilience",
+          "score": 60
         }
       ],
       "leaders": [
-        "Protecting returns through selective capital investment",
-        "Remote and autonomous operations",
-        "Energy use and production economics",
-        "Regional supply security and critical-material demand"
+        "Energy economics",
+        "Autonomous operations",
+        "Critical materials",
+        "Asset reliability"
       ],
       "outlook": [
         {
           "case": "Base case",
-          "text": "Reliability and debottlenecking work outpaces broad capacity expansion."
+          "text": "The Heavy Industries market remains constructive, with disciplined conversion around measurable outcomes."
         },
         {
           "case": "Upside",
-          "text": "Critical-material investment and infrastructure accelerate strategic projects."
+          "text": "A stronger demand mix and improving capital confidence accelerate scalable modernization and new capacity."
         },
         {
           "case": "Downside",
-          "text": "Commodity weakness delays greenfield work while service remains resilient."
+          "text": "Cost, trade or financing pressure delays larger projects while service, retrofit and essential reliability work remain active."
         }
       ],
-      "economics": "Commodity prices, energy, permitting and financing strongly influence project timing. Reliability, autonomous operations and outage-based modernization remain comparatively resilient.",
+      "economics": "The current evidence set contains 2 positive-growth references and 0 constraint references across 20 selected items. The resulting capital-confidence score is 50, with a disciplined investment posture. This is a directional headline-based indicator rather than an official economic index; use the linked ISM and Federal Reserve sources for primary economic data.",
       "opportunities": [
         {
+          "title": "Energy economics",
+          "text": "Highest-ranked leadership theme in the current monthly evidence set."
+        },
+        {
           "title": "Autonomous operations",
-          "text": "Connect mobile and fixed assets with resilient communications."
-        },
-        {
-          "title": "Asset performance",
-          "text": "Prioritize critical conveying, rotating and processing assets."
-        },
-        {
-          "title": "Energy optimization",
-          "text": "Coordinate drives, power and production schedules."
+          "text": "Second-ranked recurring theme with direct relevance to OEM differentiation."
         },
         {
           "title": "Lifecycle modernization",
-          "text": "Stage migrations around planned outages."
+          "text": "Use installed-base visibility, serviceability and migration planning to reduce customer risk."
+        },
+        {
+          "title": "Scalable architecture",
+          "text": "Translate demand into reusable controls, data, safety and application patterns."
         }
       ],
       "sources": [
@@ -385,109 +451,142 @@
           "Portland Cement Association",
           "https://www.cement.org/"
         ]
-      ]
+      ],
+      "news": [
+        {
+          "title": "Caterpillar applies mining automation experience to AI deployment - UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTEpGSGxrZGRUeWlRYWpyeFp3Mnh4SllCUlJXeEJQdmhUN1hSYmZaQnRGMFZFbXBZZm1OSW1DdjBvOEdSRWY3Z0Y1M0V3N0k2OUhwc0Q0VHM4MlpKN1c3aUc1VkJ3ZkUwZ2xDR3FBSEJSREoxR2l2VElNS2xtRzBYV3E2cFFobDZzRDFyUU4tbXZzdkJKVlNPQi1hbXcxZWVISnFtU2l6VXN2T0l4T0lRQlB3RUZNV0Z2dUpN?oc=5",
+          "published": "Sun, 30 Aug 2026 15:08:19 GMT",
+          "source": "UA.NEWS"
+        },
+        {
+          "title": "South-Africa Mining Automation Market Size, Share,Trends, Growth Analysis Report, 2030 - marketsandmarkets.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWlZQNG1NWF9qTG9OX2VuNkhFTW1YenIxV2stZ0lnejFaRTQzSFNDV1EtVEo2VnN6czZTSkFDZUg1N2l4SnFmVG10M1VGMFJKazk4N0ltNHcxVlJpMElPSEctYUlFYVh3NFpnajlFN2NBb29GbmdZUVpuV1lXQkJwMmo2VmZaUXp3YmwzWVppelFqbW1yM3ZFeC1wWjU?oc=5",
+          "published": "Tue, 11 Aug 2026 16:41:58 GMT",
+          "source": "marketsandmarkets.com"
+        },
+        {
+          "title": "Digging Deeper: The Future of Mining with Automation and Ultra-Reliable Wireless - Cisco Blogs",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSUJTR3dKZWFNY1RyS0NJU09GS29zc1pNajBxR1EwajM2ck9KYTl6YWZsQ0Z3OE9CVXA3bE5RT25KV01Fc0hnLXpIWkpNS3ZIT2FKTVpkNmR1UmI4X25CaS1FTE8yQjN1Y193NWhaV3RydzhEc1AzcUN1dHdCSFg4UEFCSnE4MnMtaXZid0ozRTh5Q2owNDJnV29pMjRrel84TUZ3R0gwT1VMcjBNN1JKb3hfUXN4WjVpS1E?oc=5",
+          "published": "Fri, 01 May 2026 07:00:00 GMT",
+          "source": "Cisco Blogs"
+        },
+        {
+          "title": "Review investigates effects of automation on the mining industry in South Africa - Tech Xplore",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPajhDRjZoZ3lWSnQybzVTaXdPdUp6SWFrTWZ0SmtKZkxjUGV4NUFsUE1XOFZuU2RBdE5wRVkwNVBrcFluWWhTR1d1T2dfN0NzcjNMMjJNLXpyX0Z1Mm93UUZsczNoeVJlazZUSV9QUUZ4RWtwbzdFWVIxcmxmYzdjTy1zeERQdWxX?oc=5",
+          "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+          "source": "Tech Xplore"
+        },
+        {
+          "title": "Mining Automation Industry Research Report 2026-2035: A $6.36 Billion Market with Hexagon, Rockwell Automation, Komatsu, Rio Tinto Group, Sandvik, Caterpillar Leading - Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmhyTUYtcTgtcGFtSXVuenFTVnVYSXp5YTBSYTJWMEo4dlJEOUxmVlRDcUJKa21QWUNrLVowQ2VNSGRDNXNmeS1PYjBqYTZOVEUwSU9XajV3Rk9PbWhfSXJ3SjI0Y1JMaEk4RFdlUHQtSFU4bUgxRDdyYlRuM2ZYcFBSQlFfWGlpbmlYQjZPSnRYbEVXN3c?oc=5",
+          "published": "Mon, 02 Mar 2026 08:00:00 GMT",
+          "source": "Yahoo Finance UK"
+        }
+      ],
+      "automation_note": "Automatically generated from public headline metadata using transparent rules. Review before external distribution."
     },
     "manufacturing-assembly": {
       "name": "Manufacturing & Assembly",
-      "score": 78,
-      "label": "Positive",
+      "score": 73,
+      "label": "Constructive",
       "accent": "#2a79c4",
       "metrics": [
         {
-          "label": "Manufacturing PMI",
-          "value": "54.6",
-          "note": "Current snapshot"
+          "label": "Composite sentiment",
+          "value": "73",
+          "note": "Constructive"
         },
         {
-          "label": "A3 ecosystem",
-          "value": "1,400+",
-          "note": "Member companies"
+          "label": "Articles analyzed",
+          "value": "20",
+          "note": "Current monthly evidence set"
         },
         {
-          "label": "Industry event",
-          "value": "IMTS 2026",
-          "note": "September"
+          "label": "Positive signal share",
+          "value": "83%",
+          "note": "Headline-language indicator"
         },
         {
-          "label": "Core pressure",
-          "value": "Workforce",
-          "note": "Skills availability"
+          "label": "Technology signal",
+          "value": "95",
+          "note": "Rules-based evidence score"
         },
         {
-          "label": "Investment theme",
-          "value": "Flexible",
-          "note": "Robotics and digital"
+          "label": "Investment posture",
+          "value": "Disciplined",
+          "note": "September 2026"
         }
       ],
-      "summary": "Manufacturing expansion and workforce pressure support flexible automation, while customers continue to require clear ROI and repeatable integration.",
+      "summary": "The Manufacturing & Assembly signal is constructive at 73. Current evidence shows more growth and investment signals than constraints. Technology adoption remains strong, while capital conversion remains disciplined.",
       "brief": [
-        "Discrete manufacturers face expanding activity, skill constraints and greater product-mix complexity, supporting robotics, vision, motion and digital production.",
-        "Manufacturers increasingly want reusable cells and machine architectures supporting multiple products, faster changeovers and future expansion.",
-        "Differentiation comes from making flexibility and repeatability measurable through launch speed, quality, utilization and lifecycle support."
+        "The monthly evidence set places Manufacturing & Assembly at a constructive composite score of 73. The balance of current headlines and source signals indicates Current evidence shows more growth and investment signals than constraints. Technology adoption remains strong, while capital conversion remains disciplined.",
+        "Leadership attention is concentrating on Robotics adoption, Vision and quality. These themes were selected from repeated terms in the current segment-specific evidence set, then mapped to the dashboard's established strategic taxonomy.",
+        "For OEMs, the practical implication is to pursue opportunities with measurable operating outcomes and a clear implementation path. The current investment posture is disciplined, so reusable architecture, lifecycle confidence and proof of value remain important to conversion."
       ],
       "drivers": [
         {
-          "name": "Flexible automation",
-          "score": 90
-        },
-        {
-          "name": "Robotics adoption",
-          "score": 87
-        },
-        {
-          "name": "Vision and quality",
-          "score": 83
-        },
-        {
-          "name": "Capital confidence",
+          "name": "Market demand",
           "score": 70
         },
         {
-          "name": "Workforce availability",
-          "score": 42
+          "name": "Technology adoption",
+          "score": 95
         },
         {
-          "name": "Digital manufacturing",
-          "score": 81
+          "name": "Capital confidence",
+          "score": 48
+        },
+        {
+          "name": "Workforce availability",
+          "score": 70
+        },
+        {
+          "name": "External risk clarity",
+          "score": 57
+        },
+        {
+          "name": "Strategic resilience",
+          "score": 60
         }
       ],
       "leaders": [
-        "Flexible automation for greater product variety",
-        "Robotics, vision, motion and safety convergence",
-        "Digital engineering and virtual commissioning",
-        "Workforce development for advanced automation"
+        "Robotics adoption",
+        "Vision and quality",
+        "Flexible automation",
+        "Digital engineering"
       ],
       "outlook": [
         {
           "case": "Base case",
-          "text": "Flexible automation investment continues around quality and labor outcomes."
+          "text": "The Manufacturing & Assembly market remains constructive, with disciplined conversion around measurable outcomes."
         },
         {
           "case": "Upside",
-          "text": "Manufacturing expansion accelerates reusable cell and line programs."
+          "text": "A stronger demand mix and improving capital confidence accelerate scalable modernization and new capacity."
         },
         {
           "case": "Downside",
-          "text": "Capacity programs slow while quality and productivity projects persist."
+          "text": "Cost, trade or financing pressure delays larger projects while service, retrofit and essential reliability work remain active."
         }
       ],
-      "economics": "Manufacturing expansion supports automation demand, although input costs reward reusable cells and projects with clear quality, utilization and launch-speed outcomes.",
+      "economics": "The current evidence set contains 5 positive-growth references and 1 constraint references across 20 selected items. The resulting capital-confidence score is 48, with a disciplined investment posture. This is a directional headline-based indicator rather than an official economic index; use the linked ISM and Federal Reserve sources for primary economic data.",
       "opportunities": [
         {
-          "title": "Flexible robotic cells",
-          "text": "Create reusable cells for assembly, tending and inspection."
+          "title": "Robotics adoption",
+          "text": "Highest-ranked leadership theme in the current monthly evidence set."
         },
         {
-          "title": "Integrated motion and safety",
-          "text": "Simplify high-performance architectures."
+          "title": "Vision and quality",
+          "text": "Second-ranked recurring theme with direct relevance to OEM differentiation."
         },
         {
-          "title": "Quality and traceability",
-          "text": "Connect vision, genealogy and production context."
+          "title": "Lifecycle modernization",
+          "text": "Use installed-base visibility, serviceability and migration planning to reduce customer risk."
         },
         {
-          "title": "Digital engineering",
-          "text": "Use simulation and reusable code to shorten launch."
+          "title": "Scalable architecture",
+          "text": "Translate demand into reusable controls, data, safety and application patterns."
         }
       ],
       "sources": [
@@ -507,109 +606,142 @@
           "NAM",
           "https://nam.org/"
         ]
-      ]
+      ],
+      "news": [
+        {
+          "title": "Chinese Robotics Stocks Riding The Factory Automation Boom - webull.com",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uU29ERzNDc2lncDhWVXB0a2RuU0ItSkxnVjNpNXFWa1RhcVRIOG1GQnp5czhSNFl1ekp2QUpnS1BSdDRwTm1icEYxQVFuOU1zemdNMWd2alI?oc=5",
+          "published": "Fri, 28 Aug 2026 18:24:57 GMT",
+          "source": "webull.com"
+        },
+        {
+          "title": "Hand in hand - Robotics Tomorrow",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14SWs2Y1lESDExYVlyYTByVHozUEFWb2pqQ3JPNk1SWUJ1VTNjbXpURXQ3aHk2MXJ3RTlJTFRHWlgxbmNWeXl1c1BLRWFxOEh4QWJVWS03Y2YzSzJnY3FTVUdGaU5mWEdCWnZUQkxEZ0dnbGJvNnc?oc=5",
+          "published": "Wed, 26 Aug 2026 13:45:25 GMT",
+          "source": "Robotics Tomorrow"
+        },
+        {
+          "title": "Factory Automation Market Size, Share | Industry Report [2034] - Fortune Business Insights",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Jb3JZdkczQUpLOVl4MGpVaklfcTJhVVpuNzk2VWQ0MGZ6N2ptcHF6dFdUem03V1NRY2hzOVJHa0llQ1prQVZmWTdJNHN5bDJYb2JUTy1oMHBWUFlLSnFneExmYzRLZERBZDc4dkswUWI5Smt5b0NLanVUTUQ?oc=5",
+          "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+          "source": "Fortune Business Insights"
+        },
+        {
+          "title": "Advantech UNO 258 Leads the Way on Industrial Automation - Embedded Computing Design",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVHROc0VSbzVFLWJIX2t4NkRsYkk3WXRMVURlQk5SOGpRUkVGVkZZSWJhRE90RWxfdzJRV1lva1YxbDU3MWFRX2lGR3hiMldPWHl6ZnhYdnpjUHZUU25IZEpIQWE4amZSb2RXSFlXM0tWRmpOSzVrRnRvMXVxVEhrLXpWQ3lmSi1zaklsYTdnOHhVU3c4RnRKbzM3SFFONlpfM2hTVVhNOFJJYWh1RFc2YmtiOTBWQlJ4cTdXcWJUZEpTRkFlRFE5eg?oc=5",
+          "published": "Wed, 26 Aug 2026 14:17:20 GMT",
+          "source": "Embedded Computing Design"
+        },
+        {
+          "title": "Motion Controls Robotics Adds Proven Tire Manufacturing Automation Technologies - EIN Presswire",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMExybUpVX2dEb0VaVVp2TElGa09VbTRnTjdCOGhWT0Y0YklnSEtlR0Z6WDVpeXFwTUdpVEFqbmNuZ3lKZm5mUHVyVS05SDFLcGU0NVBQZ2M1ak9MRHg2VjhoVjZMWkpjZlpEN0VpdWhlbWxyWmJ1SmtfQ2RfamVWQUpSNWtZMVhGaG9HcHViWFBoakdxRm9hMkdmX19SZkdNM0Q4M3NuejdrdkluSGlYMDNEamNlQVB6eElZenBNNGF3QWt3?oc=5",
+          "published": "Thu, 13 Aug 2026 18:15:00 GMT",
+          "source": "EIN Presswire"
+        }
+      ],
+      "automation_note": "Automatically generated from public headline metadata using transparent rules. Review before external distribution."
     },
     "packaging": {
       "name": "Packaging",
-      "score": 81,
+      "score": 76,
       "label": "Positive",
       "accent": "#2e9d74",
       "metrics": [
         {
-          "label": "U.S. shipments",
-          "value": "$11.7B",
-          "note": "2025 machinery"
+          "label": "Composite sentiment",
+          "value": "76",
+          "note": "Positive"
         },
         {
-          "label": "Shipment CAGR",
-          "value": "5.0%",
-          "note": "2025-2031"
+          "label": "Articles analyzed",
+          "value": "20",
+          "note": "Current monthly evidence set"
         },
         {
-          "label": "Plant investments",
-          "value": "48",
-          "note": "Major investments"
+          "label": "Positive signal share",
+          "value": "100%",
+          "note": "Headline-language indicator"
         },
         {
-          "label": "Leading priority",
-          "value": "Productivity",
-          "note": "PMMI research"
+          "label": "Technology signal",
+          "value": "95",
+          "note": "Rules-based evidence score"
         },
         {
-          "label": "Growth theme",
-          "value": "Aftermarket",
-          "note": "Parts and lifecycle"
+          "label": "Investment posture",
+          "value": "Disciplined",
+          "note": "September 2026"
         }
       ],
-      "summary": "Packaging machinery demand remains favorable as flexibility, robotics and lifecycle services address SKU complexity, labor pressure and resilience.",
+      "summary": "The Packaging signal is positive at 76. Current evidence shows more growth and investment signals than constraints. Technology adoption remains strong, while capital conversion remains disciplined.",
       "brief": [
-        "Packaging operations must handle more variety, shorter runs, workforce turnover and changing materials while maintaining throughput and quality.",
-        "Customers increasingly value mix-adjusted throughput, maintainability and rapid recovery rather than maximum rated speed alone.",
-        "Lifecycle value is a larger part of OEM differentiation as obsolescence and knowledge loss create operating risk."
+        "The monthly evidence set places Packaging at a positive composite score of 76. The balance of current headlines and source signals indicates Current evidence shows more growth and investment signals than constraints. Technology adoption remains strong, while capital conversion remains disciplined.",
+        "Leadership attention is concentrating on End-of-line robotics, Flexible machinery. These themes were selected from repeated terms in the current segment-specific evidence set, then mapped to the dashboard's established strategic taxonomy.",
+        "For OEMs, the practical implication is to pursue opportunities with measurable operating outcomes and a clear implementation path. The current investment posture is disciplined, so reusable architecture, lifecycle confidence and proof of value remain important to conversion."
       ],
       "drivers": [
         {
-          "name": "Machinery demand",
-          "score": 84
+          "name": "Market demand",
+          "score": 80
         },
         {
-          "name": "Flexible automation",
-          "score": 91
-        },
-        {
-          "name": "Robotics and end-of-line",
-          "score": 88
+          "name": "Technology adoption",
+          "score": 95
         },
         {
           "name": "Capital confidence",
-          "score": 72
+          "score": 50
         },
         {
-          "name": "Workforce knowledge",
-          "score": 40
+          "name": "Workforce availability",
+          "score": 63
         },
         {
-          "name": "Sustainability adaptation",
-          "score": 82
+          "name": "External risk clarity",
+          "score": 62
+        },
+        {
+          "name": "Strategic resilience",
+          "score": 60
         }
       ],
       "leaders": [
-        "Flexibility versus maximum rated speed",
-        "End-of-line robotics and mobile automation",
-        "Obsolescence and aftermarket lifecycle support",
-        "Sustainability requirements changing OEM specifications"
+        "End-of-line robotics",
+        "Flexible machinery",
+        "Lifecycle and obsolescence",
+        "Sustainable packaging"
       ],
       "outlook": [
         {
           "case": "Base case",
-          "text": "Flexible machinery and lifecycle services support steady growth."
+          "text": "The Packaging market remains positive, with disciplined conversion around measurable outcomes."
         },
         {
           "case": "Upside",
-          "text": "CPG investment accelerates new lines and robotics."
+          "text": "A stronger demand mix and improving capital confidence accelerate scalable modernization and new capacity."
         },
         {
           "case": "Downside",
-          "text": "Retrofit and obsolescence work holds up as new lines slow."
+          "text": "Cost, trade or financing pressure delays larger projects while service, retrofit and essential reliability work remain active."
         }
       ],
-      "economics": "CPG production remains resilient, while SKU proliferation, labor pressure and changing materials support flexible machinery and lifecycle investment.",
+      "economics": "The current evidence set contains 3 positive-growth references and 0 constraint references across 20 selected items. The resulting capital-confidence score is 50, with a disciplined investment posture. This is a directional headline-based indicator rather than an official economic index; use the linked ISM and Federal Reserve sources for primary economic data.",
       "opportunities": [
         {
-          "title": "Modular machine architecture",
-          "text": "Standardize controls, motion, safety and data."
+          "title": "End-of-line robotics",
+          "text": "Highest-ranked leadership theme in the current monthly evidence set."
         },
         {
-          "title": "Rapid changeover",
-          "text": "Reduce setup losses through coordinated motion and recipes."
+          "title": "Flexible machinery",
+          "text": "Second-ranked recurring theme with direct relevance to OEM differentiation."
         },
         {
-          "title": "End-of-line automation",
-          "text": "Integrate robotics, palletizing and conveyance."
+          "title": "Lifecycle modernization",
+          "text": "Use installed-base visibility, serviceability and migration planning to reduce customer risk."
         },
         {
-          "title": "Lifecycle services",
-          "text": "Convert installed-base knowledge into proactive upgrades."
+          "title": "Scalable architecture",
+          "text": "Translate demand into reusable controls, data, safety and application patterns."
         }
       ],
       "sources": [
@@ -629,109 +761,142 @@
           "IoPP",
           "https://www.iopp.org/"
         ]
-      ]
+      ],
+      "news": [
+        {
+          "title": "U.S. Robotics Market for Packaging and Processing Poised to Nearly Double by 2031 - Packaging World",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNemJkZUk3Y3lPX2dNbjhvS0hBb0VfdUwzUjBBR21hbDMxRThlZ1I5cHpXVVVIVlBzNHdRMjNpSHZpQWgxa1B6bC04YjFfeWZGLWowSktmLU1GTXNUbEttTGxzVVg5MGRVWnFrVEh1eTZZTDNONFdNeUcyQ3d0MW5jZ05QdF9fTXZic1NJLW5UVFlTNHhmX1NzZ3dEdWVLSFQ5WGw5OHl1ZmpRSGw4Y1J2eUhVVDdWR0RPMW01S1BBUFNiUE5FX1g3bFZfX3d5a29sUlQ2b3dENzg5QmtTNy1PRlRFSk4yZ3o1V0Fv?oc=5",
+          "published": "Mon, 31 Aug 2026 15:17:08 GMT",
+          "source": "Packaging World"
+        },
+        {
+          "title": "PPMA Show 2026: unlocking next-generation packaging and production - Food and Drink Technology",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT3pja3JnaVVNM29IZXEwSUJ4VjhJMVFBN09CQS1MOHB1ZkxKRzRtaE5QNWloLU00dEVWMFhtRFZWMmFaN01BLVhZcVJJb1JHd3ZnU244Zkd0bnplZFV3NmlrYXpuUmhkVE1vNlJIMmFGQ2JUZUxqQk9BVVYyR3lvbE9FVERoTG1FYkM1SDdJVnlwVll6NlEzNlpZMEZEY0dJTmVFUmtaRlB4WEY0U2ZGQ1Rma3lqdmM?oc=5",
+          "published": "Wed, 02 Sep 2026 15:31:51 GMT",
+          "source": "Food and Drink Technology"
+        },
+        {
+          "title": "Packaging, processing driving robotics tech adoption - Commercial Baking",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUFWSHFNSEhnVWdYdk1wWUtpRDljU0pBWDR6cUotOU55cmhGUGh6eUlGMkUtYmtHRFEzcWFOZXdadXlyY0FVdVRkamM2ajBCMnBmQXpBWHlUX002aWRBX1dmbGZNNXlQSlBFX0NWWWI2RENtVmlvcUJFcEVLRFNRSzk4eTJxN3lx?oc=5",
+          "published": "Tue, 01 Sep 2026 18:04:34 GMT",
+          "source": "Commercial Baking"
+        },
+        {
+          "title": "Mobile Robots Set to Dominate Packaging Industry by 2031 - Packaging World",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbUxHRmFMTzUwX1VKajFtLXZlcUxqZ1IxUWptdEFvMmlvanRneG5kWTA5UG1WckhzU0JHcXd1SjNFSTZlMlRKSjUwQkhScEFVR3ZwdS1OQ2NqRGVKVVQ5THFIOU80OWFKQVB6VEtMZkV0ZHJoTndndWVzSjBHNFZBS09aMlVEVk9rekpLZUs4bldmRXpZQ0NaV1hHYThlZ3N1U3BJWWtEc2tRck9RcVAtZENnUWduTGpKczVYRUg1dFNSTEJsdjBYcw?oc=5",
+          "published": "Fri, 28 Aug 2026 17:00:53 GMT",
+          "source": "Packaging World"
+        },
+        {
+          "title": "AI-Assisted Robots Optimize Packaging Production Lines - Packaging Digest",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS0ptR2tWb3QxanJJZmVvdkplWWlhOTlvcU5FTjBrSmQyVXE2b2JqRzZQUF9OVldfY1dxbzZ4SmJwSm5hbHVzZHdnNC1YU1VWZl84UVcySkxhRVdjV0x4T1Y1cm5nbGk1VGxDS1FmZVVHR09lTnVMNmdfeWxmMVVRZ0MySU1yWHZsVTBSN2hkMnNaUV9iaGtsV2JuQzBHZw?oc=5",
+          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+          "source": "Packaging Digest"
+        }
+      ],
+      "automation_note": "Automatically generated from public headline metadata using transparent rules. Review before external distribution."
     },
     "converting-printing-web": {
       "name": "Converting, Printing & Web",
-      "score": 76,
-      "label": "Positive",
+      "score": 73,
+      "label": "Constructive",
       "accent": "#008c95",
       "metrics": [
         {
-          "label": "ARC organizations",
-          "value": "248",
-          "note": "Across 36 countries"
+          "label": "Composite sentiment",
+          "value": "73",
+          "note": "Constructive"
         },
         {
-          "label": "ARC members",
-          "value": "4,000+",
-          "note": "Active community"
+          "label": "Articles analyzed",
+          "value": "20",
+          "note": "Current monthly evidence set"
         },
         {
-          "label": "Expo exhibitors",
-          "value": "800+",
-          "note": "PRINTING United 2026"
+          "label": "Positive signal share",
+          "value": "100%",
+          "note": "Headline-language indicator"
         },
         {
-          "label": "Core pressure",
-          "value": "Short runs",
-          "note": "Setup and waste"
+          "label": "Technology signal",
+          "value": "90",
+          "note": "Rules-based evidence score"
         },
         {
-          "label": "Technology theme",
-          "value": "Precision",
-          "note": "Web and quality"
+          "label": "Investment posture",
+          "value": "Disciplined",
+          "note": "September 2026"
         }
       ],
-      "summary": "Precision automation, inspection and workflow modernization support productivity as shorter runs and substrate complexity reshape economics.",
+      "summary": "The Converting, Printing & Web signal is constructive at 73. Current evidence shows more growth and investment signals than constraints. Technology adoption remains strong, while capital conversion remains disciplined.",
       "brief": [
-        "Converting and web operations are adapting to shorter quantities, customization, evolving substrates and pressure to reduce waste.",
-        "Small variations in tension, registration, coating weight or winding can create quality losses that compound rapidly.",
-        "Digital and conventional workflows are converging across printing, coating, laminating, slitting and finishing."
+        "The monthly evidence set places Converting, Printing & Web at a constructive composite score of 73. The balance of current headlines and source signals indicates Current evidence shows more growth and investment signals than constraints. Technology adoption remains strong, while capital conversion remains disciplined.",
+        "Leadership attention is concentrating on Workflow automation, Web control performance. These themes were selected from repeated terms in the current segment-specific evidence set, then mapped to the dashboard's established strategic taxonomy.",
+        "For OEMs, the practical implication is to pursue opportunities with measurable operating outcomes and a clear implementation path. The current investment posture is disciplined, so reusable architecture, lifecycle confidence and proof of value remain important to conversion."
       ],
       "drivers": [
         {
-          "name": "Workflow automation",
-          "score": 83
+          "name": "Market demand",
+          "score": 80
         },
         {
-          "name": "Web handling performance",
-          "score": 89
-        },
-        {
-          "name": "Inspection and quality",
-          "score": 86
+          "name": "Technology adoption",
+          "score": 90
         },
         {
           "name": "Capital confidence",
-          "score": 66
+          "score": 50
         },
         {
           "name": "Workforce availability",
-          "score": 44
+          "score": 63
         },
         {
-          "name": "Sustainability adaptation",
-          "score": 78
+          "name": "External risk clarity",
+          "score": 62
+        },
+        {
+          "name": "Strategic resilience",
+          "score": 60
         }
       ],
       "leaders": [
-        "Shorter runs changing production economics",
-        "Tension, registration and web-control performance",
-        "Inline inspection and startup-waste reduction",
-        "New substrates, coatings and roll-to-roll applications"
+        "Workflow automation",
+        "Web control performance",
+        "Waste reduction",
+        "New substrates and coatings"
       ],
       "outlook": [
         {
           "case": "Base case",
-          "text": "Automation and inspection improve yield and flexibility."
+          "text": "The Converting, Printing & Web market remains constructive, with disciplined conversion around measurable outcomes."
         },
         {
           "case": "Upside",
-          "text": "Advanced coatings and new roll-to-roll applications expand demand."
+          "text": "A stronger demand mix and improving capital confidence accelerate scalable modernization and new capacity."
         },
         {
           "case": "Downside",
-          "text": "Efficiency and quality investment continues despite slower capacity."
+          "text": "Cost, trade or financing pressure delays larger projects while service, retrofit and essential reliability work remain active."
         }
       ],
-      "economics": "Material prices, waste, run length and application mix directly affect margins. Automation improving first-pass yield and setup remains defensible.",
+      "economics": "The current evidence set contains 3 positive-growth references and 0 constraint references across 20 selected items. The resulting capital-confidence score is 50, with a disciplined investment posture. This is a directional headline-based indicator rather than an official economic index; use the linked ISM and Federal Reserve sources for primary economic data.",
       "opportunities": [
         {
-          "title": "Precision web control",
-          "text": "Coordinate drives, tension zones and winding."
+          "title": "Workflow automation",
+          "text": "Highest-ranked leadership theme in the current monthly evidence set."
         },
         {
-          "title": "Inline inspection",
-          "text": "Connect vision and process data to reduce waste."
-        },
-        {
-          "title": "Workflow integration",
-          "text": "Link job data, setup parameters and quality records."
+          "title": "Web control performance",
+          "text": "Second-ranked recurring theme with direct relevance to OEM differentiation."
         },
         {
           "title": "Lifecycle modernization",
-          "text": "Upgrade controls, drives and safety during planned outages."
+          "text": "Use installed-base visibility, serviceability and migration planning to reduce customer risk."
+        },
+        {
+          "title": "Scalable architecture",
+          "text": "Translate demand into reusable controls, data, safety and application patterns."
         }
       ],
       "sources": [
@@ -751,7 +916,41 @@
           "PFFC",
           "https://www.pffc-online.com/"
         ]
-      ]
+      ],
+      "news": [
+        {
+          "title": "Loupe Americas 2026 preview - Labels & Labeling",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRnIwQ01Ycm5JVlpNU1ZCTFZjcjVqQ0hzS2JHNnNRUzBHb19RY0pzM2tVYjVTZFlYZHlnclFFOU5MNVFYQUY4dmZEQnRpVm9qNjNaUnQ2Y1JUMGdRWDFWX3gyN3R1TkJ0MVlYaWE1WjA2TU8wQXUyNWtBSmJubHVZZEh2NkVqZm14T3I1WC1GU0dRVm1S?oc=5",
+          "published": "Wed, 19 Aug 2026 12:00:00 GMT",
+          "source": "Labels & Labeling"
+        },
+        {
+          "title": "Discover how BW Converting combines engineering expertise with enhanced automation to deliver pioneering products - manufacturing-today.com",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPc3NvLTRiU1RfTlZIN04wM2NEY2pCWTNPLURUWXVmTHEwWHlYX3FBdnJXYTQyeHpFWHF5R0VwSm5WTzVQajJYajRReXRjTHF6M3FWYVVpdXpsblpvNk1zcW5HVHExYjNjZnR4VG1QR0VDMTcxRlZDaTdBeGxXeGFPZVY1Z0FkLXBNbmJHQ0wxdF9wNGdUeXNEdnUyaHlmWW1mbkR0eXV1LXI3VGxnSkh3VUl5ejZTNWZ1WXNMdmxmMHFRYVdXVUpFRkpsVDc1cHVrVFM4NkpfM29QcjhtU2RjYTlwZnJrZw?oc=5",
+          "published": "Thu, 12 Mar 2026 07:00:00 GMT",
+          "source": "manufacturing-today.com"
+        },
+        {
+          "title": "Digital Printing for Flexible Packaging Market Size & Forecast 2036 - Fact.MR",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcWMzMGQ3M3l3U0RFaVdiZUhJQVY0QUNzd2dkaUY1SE9IMzlFVVM5bFBER3cxNzQxRU44bmdmMWxjMDJjM3ZYa3gwbjNZUDY5ZVg3ZkhSRkc3b2FWOGlja1B5QkZuQXAxRGtaSkFseFFaUFE1YXNHQUVyeEV3T0VWUnd3?oc=5",
+          "published": "Tue, 11 Aug 2026 13:41:42 GMT",
+          "source": "Fact.MR"
+        },
+        {
+          "title": "Applied Manufacturing Technologies and FANUC to Highlight Collaborative Mixed-Load Handling at Automate 2026 - PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd2JkWm9tMml0ZHd1dlZHR3ZTSENMTV81RUJYWkZBbDZPaFMyaHVQR0tOeHhyM214bWV4ZXdRaVVxc1ltOF92b2stcEhBb3FqWnJCZVVORmtuU05mdEcxTmVHOE9pNGNjQl9mMXhzaXNZdzJoUWpqWUpwZnQ0WjgtZWVxQXhoLU43cEZ6aHRuUHZfc3FuMnZudHp1ZGRtSElONmtiSUUtZlExaVZHT1lHc3didF8xbklNaUk3YzNCSm0wNUNseUJVUXExWjZJbVBMUEpsX1YxdkxyZTQ5SXlpSWE3RDRtaGZqaTF4YnlrWkdDNDcwaUc0?oc=5",
+          "published": "Wed, 10 Jun 2026 07:00:00 GMT",
+          "source": "PR Newswire"
+        },
+        {
+          "title": "A.Celli Showcasing Latest Solutions for Nonwoven Production - Nonwovens Industry",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORTdPOHdfRGlHOWdqMFBsT2dOaEhnZDk4eFVGZWF5d2pReDhETzhwYjEwQXBYcVEzdGdFYlNNdWdqVTZlTndPalQzT2hzMHpIQ0QtdXZZamg4bHhIeXNEcTRvN1E1cTFQX2NaWWVVb2RWeHN5dVN2X0xXcUYwUzFNbGhKb1JQMG9pVm9xMG1XVGcxdFUybkFJbEszVGxnbEpDT3I3MnF0OXpNdFRXdlRKRg?oc=5",
+          "published": "Thu, 21 May 2026 05:09:43 GMT",
+          "source": "Nonwovens Industry"
+        }
+      ],
+      "automation_note": "Automatically generated from public headline metadata using transparent rules. Review before external distribution."
     }
-  }
+  },
+  "refresh_scope": "Monthly automatic refresh of newsroom, indicators, scores, drivers, briefs, outlook, economics and opportunity areas."
 }
