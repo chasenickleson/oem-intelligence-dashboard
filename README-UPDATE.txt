@@ -1,0 +1,1 @@
+Upload these replacement files over the same paths in the existing repository. Do not delete data/dashboard-data.json. After upload, run Refresh dashboard data once so executive_takeaway values are added to the existing JSON.
