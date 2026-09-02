@@ -1,5 +1,5 @@
 {
-  "last_refreshed": "2026-09-02T18:00:00Z",
+  "last_refreshed": "2026-09-02T19:18:14.949184Z",
   "refresh_mode": "GitHub Actions: weekly newsroom, monthly full refresh",
   "segments": {
     "material-handling": {
@@ -8,12 +8,40 @@
       "label": "Constructive",
       "summary": "Automated proof-of-concept data. The scheduled workflow refreshes the newsroom and evidence-based leadership topics.",
       "leaders": [
-        "warehouse automation",
-        "intralogistics",
-        "ASRS",
-        "AMR"
+        "Robotics at scale"
       ],
-      "news": []
+      "news": [
+        {
+          "title": "Swisslog to showcase next-generation warehouse automation for faster, more scalable logistics in Riyadh - The National Law Review",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLXpEejQyNl8tUGNDV2tWZ3dlWXpNSWIwMTNHZDMtUjB5YzgtNTlFZEhhRVMtdnFfaUp5b1EyYzFMM3ZqWDk4ZkdxVVU2R0NwM2JCaGNFZ01XMVJONGIzT1dxMmhtaDl4MGhUM2F4dmVleVRqQktfMEhXaER6SXZfUTRQeDcwQjZoc0hLd1FPWVZXNmhtSTZiSGEyZkFzbnkzSklSazgxTTVVSXFhazVkU0szSEVfZw?oc=5",
+          "published": "Wed, 02 Sep 2026 10:12:56 GMT",
+          "source": "The National Law Review"
+        },
+        {
+          "title": "Vadzo Imaging Positions Falcon-900MGS: 3MP Sony Pregius S IMX900 Global Shutter Monochrome USB Camera with Quad Shutter Control for Forklift Automation - Newswire.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcDMxRjZDeFp0N2JJTVJDQ0JBOUtmeXNsLW1XcWgwcnZMbm45SnhDdml6dm15UnZ4d3FJVHU5SUlxNFczTGVHSXJReDBjZUtqYzZROTJzdmh6R0tZVFExdXkzMTBDWm1feVZPUS1ueFNOWVVVS3ZZTWg3RVFucW8zS0hITzc0enRZX2dveFZhNG91Q3hSdEVXRE9VZHh4MnlWYlRzcDVCbjAxdU41cUE?oc=5",
+          "published": "Wed, 02 Sep 2026 15:00:00 GMT",
+          "source": "Newswire.com"
+        },
+        {
+          "title": "How Multiway Robotics Transformed a Malaysian Manufacturer's High-Bay Smart Warehouse with 5,000+ Storage Locations - Robotics Tomorrow",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMmpuTkdwMUNzOE9tR2RYWjZZS3I5c2xlOE40Rk4yai1OV0tyRmExS1c0NExmaExBalZOU2UwS0lMUDVyeC00N2p5bm1Ea0VOaER6VF9ETVFSd3I2WXVBejlBMkp6SzZNT2U0MGhVLXdYc3FPdEdlVl9ETDhrNzRZdnllVUh3eG81TUkxSWo3V0JhZy1GZ1RSRi03MnJHQ0phaDd5NXRueHlRUF9aTFQ4NVRLbmhnUGNXUFJ1Uk5sU0hmLWxBMzQ5S2tYajFlT2NzSThCS3EzTHZ6eldSU2dRV2NER1dWU1VXRE13c2tZenk5R2UyVWlHZGhTOA?oc=5",
+          "published": "Tue, 01 Sep 2026 12:43:44 GMT",
+          "source": "Robotics Tomorrow"
+        },
+        {
+          "title": "Warehouse Operators Accelerate Automation - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQW0yRTF6RGdoRlRrQ01jY3h5VUNIbVBFZTk4ZDBJbUh0LWRYM2J6anp2M0hVYmFhZU9VcVRJUExFYXRNMlJNRzZJTURtVnBwV21JZ1gwdkFacHpualBNUHhuOFJ1THQxUXdBeVNFMnJUaVdGM0djcDV5bF84YWgybnQ1M2czUVkwMEVDeGZSNW4?oc=5",
+          "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+          "source": "WSJ"
+        },
+        {
+          "title": "Beyond Automation for System Integration - Logistics Business",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV3EzNjZJaUgtekFZdDJGQUVaZ3FRVFo1di1uekhReFQzcUJpcXZGQ0hQMGppN19TSWcwdEVJSFBRR1lHa1kxb0pLRDAyZEw0ZmZiQlhzZndHZlZFRkZPaWRCVWo5TWFKTmdfTkNVZkRiWmJPQXdONXEyektTM2l2OEctMGFiYUYxbVY1V2Zrdi1oTnBzRWdYakdnNUxWMU9Yd0FkZWd1aDdocXFvSnE1MC1vQnVWMHJCMkE?oc=5",
+          "published": "Mon, 31 Aug 2026 23:46:32 GMT",
+          "source": "Logistics Business"
+        }
+      ]
     },
     "process": {
       "name": "Process",
@@ -21,12 +49,43 @@
       "label": "Constructive",
       "summary": "Automated proof-of-concept data. The scheduled workflow refreshes the newsroom and evidence-based leadership topics.",
       "leaders": [
-        "process automation",
-        "instrumentation",
-        "DCS",
-        "industrial cybersecurity"
+        "Industrial AI in context",
+        "Brownfield modernization",
+        "OT cybersecurity",
+        "Workforce knowledge"
       ],
-      "news": []
+      "news": [
+        {
+          "title": "Asia-Pacific Process Automation and Instrumentation Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX3MzUEl3ZE5IZHFVRTVXWDF0OURvT3NmNHhSUXI4eFdMTkJzVmkyOG1xaWgyY3BFMzRBTDJSZUE3NkJxbTc2ZUN6dzVJeDFSUGFCMFA3LWxwQkJKNlZsR1Q2cmJ6U09Zd0t3WHJGdGp5YVBqOVRSYWdqcmNfd1Vwb0stWFlubmlIODkzczFuVldQNGtxaF9LN2J0cG5pQQ?oc=5",
+          "published": "Sun, 23 Aug 2026 08:59:53 GMT",
+          "source": "MarketsandMarkets"
+        },
+        {
+          "title": "Hisaka Works Advances Energy-Efficient Industry Through Heat Exchange, Automation and Reliability - The Worldfolio",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZUJTekFGNGtKMGZaQzRoQ3g0WUxpS2JpSXZxTUFscUJKekNMTEdyWW43Z3o5dnZYZzJVTTNGQ25hbW5aTDdNeV9aaE5LNmV1ck9hQXZIQnVWV09ZMC1lUWFJVnU2ZzhmWlE0TkI2X1MtRGtmTTdGWjdBUk4xOTVTOFVPZFNESWwxc1FUSllNMjdoaExiV09PcVR2U3RSbnRYNHdObkotYVFVcThMa0kyY2d5VVlfNWxTVnRYeW5uVEVCWmprbWVQV0F4Vlg2MWpLamtvdVBvMjZUQQ?oc=5",
+          "published": "Tue, 01 Sep 2026 08:50:49 GMT",
+          "source": "The Worldfolio"
+        },
+        {
+          "title": "Industrial Automation Services Market Size, Share [2026-2034] - Fortune Business Insights",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ2tWM1dkT2ZXVnF0enpoVGZkWmdTY3gxQVk1SDB4dmYtUjBZamNKQXhVa0R1Zk5sSGZ1TTdwaXlaLVlkNXMtcTlQNHlNeXBjSlNqem9mS2Z6cmMxWXVSeTZQYlRJTTNXZks2VFllYlFBX1U0N0JDbmNMR1NmSmNCM0tfTVRBRV9XT1p0cA?oc=5",
+          "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+          "source": "Fortune Business Insights"
+        },
+        {
+          "title": "How Dow Is Turning Automation into a Strategic Engine for Scalable AI - Oil & Gas IQ",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWWY0QzBCYk9BLUZ3b0piYkRXRmRzYXU3bS1EblRVaDVnLXU4WElCUDNQSHdmenRPeDVaWWloNlhaRDJ1aDY5djZqVWE1ZEJFbEdYbzV5RGFQM3VlTW1nVHVlTURpemRPS0RWZjVSQXBidlJXNUNBWGxlamVHZFhmTWhtYjJTYzQ2WnF5LTBITlJCNUhsX25KWV9CbEtNZFQwbTVnbm5NN0FUMzlDSUxqaQ?oc=5",
+          "published": "Fri, 21 Aug 2026 16:38:42 GMT",
+          "source": "Oil & Gas IQ"
+        },
+        {
+          "title": "Process Automation and Instrumentation Market to Reach USD 2.0 Billion by 2035 as Smart Manufacturing Accelerate Global Industrial Transformation - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcXNzVmdGdlA2a3VCY0x6WmZLUjBsbUFYSUFGQ1h0aE1GZUo2ellXdlZfaTNtbF9oLVhxMV9IT3p0S21PUkNXcDZHcGM4X1dtY3hHMG5nX0RnVWxyVC1GTXF0bXBqVEpZalpBaEJmUjZaX3pVTFVlN2RlWG9JTkN1XzdHYlhCdW8tZGJ4ZXVHNkhBYlpWR2w2aWxFUkRlMFBhcmR4WHhrZV9RQ0ZrNy0zb2VLM2U2bFk?oc=5",
+          "published": "Wed, 20 May 2026 07:00:00 GMT",
+          "source": "Yahoo Finance"
+        }
+      ]
     },
     "heavy-industries": {
       "name": "Heavy Industries",
@@ -34,12 +93,43 @@
       "label": "Constructive",
       "summary": "Automated proof-of-concept data. The scheduled workflow refreshes the newsroom and evidence-based leadership topics.",
       "leaders": [
-        "mining automation",
-        "metals industry",
-        "cement automation",
-        "critical minerals"
+        "Autonomous operations",
+        "Critical materials",
+        "Energy economics",
+        "Asset reliability"
       ],
-      "news": []
+      "news": [
+        {
+          "title": "Caterpillar applies mining automation experience to AI deployment - UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTEpGSGxrZGRUeWlRYWpyeFp3Mnh4SllCUlJXeEJQdmhUN1hSYmZaQnRGMFZFbXBZZm1OSW1DdjBvOEdSRWY3Z0Y1M0V3N0k2OUhwc0Q0VHM4MlpKN1c3aUc1VkJ3ZkUwZ2xDR3FBSEJSREoxR2l2VElNS2xtRzBYV3E2cFFobDZzRDFyUU4tbXZzdkJKVlNPQi1hbXcxZWVISnFtU2l6VXN2T0l4T0lRQlB3RUZNV0Z2dUpN?oc=5",
+          "published": "Sun, 30 Aug 2026 15:08:19 GMT",
+          "source": "UA.NEWS"
+        },
+        {
+          "title": "South-Africa Mining Automation Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWlZQNG1NWF9qTG9OX2VuNkhFTW1YenIxV2stZ0lnejFaRTQzSFNDV1EtVEo2VnN6czZTSkFDZUg1N2l4SnFmVG10M1VGMFJKazk4N0ltNHcxVlJpMElPSEctYUlFYVh3NFpnajlFN2NBb29GbmdZUVpuV1lXQkJwMmo2VmZaUXp3YmwzWVppelFqbW1yM3ZFeC1wWjU?oc=5",
+          "published": "Tue, 11 Aug 2026 16:41:58 GMT",
+          "source": "MarketsandMarkets"
+        },
+        {
+          "title": "Digging Deeper: The Future of Mining with Automation and Ultra-Reliable Wireless - Cisco Blogs",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSUJTR3dKZWFNY1RyS0NJU09GS29zc1pNajBxR1EwajM2ck9KYTl6YWZsQ0Z3OE9CVXA3bE5RT25KV01Fc0hnLXpIWkpNS3ZIT2FKTVpkNmR1UmI4X25CaS1FTE8yQjN1Y193NWhaV3RydzhEc1AzcUN1dHdCSFg4UEFCSnE4MnMtaXZid0ozRTh5Q2owNDJnV29pMjRrel84TUZ3R0gwT1VMcjBNN1JKb3hfUXN4WjVpS1E?oc=5",
+          "published": "Fri, 01 May 2026 07:00:00 GMT",
+          "source": "Cisco Blogs"
+        },
+        {
+          "title": "Review investigates effects of automation on the mining industry in South Africa - Tech Xplore",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPajhDRjZoZ3lWSnQybzVTaXdPdUp6SWFrTWZ0SmtKZkxjUGV4NUFsUE1XOFZuU2RBdE5wRVkwNVBrcFluWWhTR1d1T2dfN0NzcjNMMjJNLXpyX0Z1Mm93UUZsczNoeVJlazZUSV9QUUZ4RWtwbzdFWVIxcmxmYzdjTy1zeERQdWxX?oc=5",
+          "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+          "source": "Tech Xplore"
+        },
+        {
+          "title": "Mining Automation Industry Research Report 2026-2035: A $6.36 Billion Market with Hexagon, Rockwell Automation, Komatsu, Rio Tinto Group, Sandvik, Caterpillar Leading - Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmhyTUYtcTgtcGFtSXVuenFTVnVYSXp5YTBSYTJWMEo4dlJEOUxmVlRDcUJKa21QWUNrLVowQ2VNSGRDNXNmeS1PYjBqYTZOVEUwSU9XajV3Rk9PbWhfSXJ3SjI0Y1JMaEk4RFdlUHQtSFU4bUgxRDdyYlRuM2ZYcFBSQlFfWGlpbmlYQjZPSnRYbEVXN3c?oc=5",
+          "published": "Mon, 02 Mar 2026 08:00:00 GMT",
+          "source": "Yahoo Finance UK"
+        }
+      ]
     },
     "manufacturing-assembly": {
       "name": "Manufacturing & Assembly",
@@ -47,12 +137,41 @@
       "label": "Positive",
       "summary": "Automated proof-of-concept data. The scheduled workflow refreshes the newsroom and evidence-based leadership topics.",
       "leaders": [
-        "manufacturing automation",
-        "industrial robotics",
-        "machine vision",
-        "digital manufacturing"
+        "Robotics adoption",
+        "Vision and quality"
       ],
-      "news": []
+      "news": [
+        {
+          "title": "Chinese Robotics Stocks Riding The Factory Automation Boom - webull.com",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uU29ERzNDc2lncDhWVXB0a2RuU0ItSkxnVjNpNXFWa1RhcVRIOG1GQnp5czhSNFl1ekp2QUpnS1BSdDRwTm1icEYxQVFuOU1zemdNMWd2alI?oc=5",
+          "published": "Fri, 28 Aug 2026 18:24:57 GMT",
+          "source": "webull.com"
+        },
+        {
+          "title": "Hand in hand - Robotics Tomorrow",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14SWs2Y1lESDExYVlyYTByVHozUEFWb2pqQ3JPNk1SWUJ1VTNjbXpURXQ3aHk2MXJ3RTlJTFRHWlgxbmNWeXl1c1BLRWFxOEh4QWJVWS03Y2YzSzJnY3FTVUdGaU5mWEdCWnZUQkxEZ0dnbGJvNnc?oc=5",
+          "published": "Wed, 26 Aug 2026 13:45:25 GMT",
+          "source": "Robotics Tomorrow"
+        },
+        {
+          "title": "Factory Automation Market Size, Share | Industry Report [2034] - Fortune Business Insights",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Jb3JZdkczQUpLOVl4MGpVaklfcTJhVVpuNzk2VWQ0MGZ6N2ptcHF6dFdUem03V1NRY2hzOVJHa0llQ1prQVZmWTdJNHN5bDJYb2JUTy1oMHBWUFlLSnFneExmYzRLZERBZDc4dkswUWI5Smt5b0NLanVUTUQ?oc=5",
+          "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+          "source": "Fortune Business Insights"
+        },
+        {
+          "title": "Advantech UNO 258 Leads the Way on Industrial Automation - Embedded Computing Design",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVHROc0VSbzVFLWJIX2t4NkRsYkk3WXRMVURlQk5SOGpRUkVGVkZZSWJhRE90RWxfdzJRV1lva1YxbDU3MWFRX2lGR3hiMldPWHl6ZnhYdnpjUHZUU25IZEpIQWE4amZSb2RXSFlXM0tWRmpOSzVrRnRvMXVxVEhrLXpWQ3lmSi1zaklsYTdnOHhVU3c4RnRKbzM3SFFONlpfM2hTVVhNOFJJYWh1RFc2YmtiOTBWQlJ4cTdXcWJUZEpTRkFlRFE5eg?oc=5",
+          "published": "Wed, 26 Aug 2026 14:17:20 GMT",
+          "source": "Embedded Computing Design"
+        },
+        {
+          "title": "Motion Controls Robotics Adds Proven Tire Manufacturing Automation Technologies - EIN Presswire",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMExybUpVX2dEb0VaVVp2TElGa09VbTRnTjdCOGhWT0Y0YklnSEtlR0Z6WDVpeXFwTUdpVEFqbmNuZ3lKZm5mUHVyVS05SDFLcGU0NVBQZ2M1ak9MRHg2VjhoVjZMWkpjZlpEN0VpdWhlbWxyWmJ1SmtfQ2RfamVWQUpSNWtZMVhGaG9HcHViWFBoakdxRm9hMkdmX19SZkdNM0Q4M3NuejdrdkluSGlYMDNEamNlQVB6eElZenBNNGF3QWt3?oc=5",
+          "published": "Thu, 13 Aug 2026 18:15:00 GMT",
+          "source": "EIN Presswire"
+        }
+      ]
     },
     "packaging": {
       "name": "Packaging",
@@ -60,12 +179,40 @@
       "label": "Positive",
       "summary": "Automated proof-of-concept data. The scheduled workflow refreshes the newsroom and evidence-based leadership topics.",
       "leaders": [
-        "packaging machinery",
-        "packaging robotics",
-        "PMMI",
-        "end of line automation"
+        "End-of-line robotics"
       ],
-      "news": []
+      "news": [
+        {
+          "title": "U.S. Robotics Market for Packaging and Processing Poised to Nearly Double by 2031 - Packaging World",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNemJkZUk3Y3lPX2dNbjhvS0hBb0VfdUwzUjBBR21hbDMxRThlZ1I5cHpXVVVIVlBzNHdRMjNpSHZpQWgxa1B6bC04YjFfeWZGLWowSktmLU1GTXNUbEttTGxzVVg5MGRVWnFrVEh1eTZZTDNONFdNeUcyQ3d0MW5jZ05QdF9fTXZic1NJLW5UVFlTNHhmX1NzZ3dEdWVLSFQ5WGw5OHl1ZmpRSGw4Y1J2eUhVVDdWR0RPMW01S1BBUFNiUE5FX1g3bFZfX3d5a29sUlQ2b3dENzg5QmtTNy1PRlRFSk4yZ3o1V0Fv?oc=5",
+          "published": "Mon, 31 Aug 2026 15:17:08 GMT",
+          "source": "Packaging World"
+        },
+        {
+          "title": "PPMA Show 2026: unlocking next-generation packaging and production - Food and Drink Technology",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT3pja3JnaVVNM29IZXEwSUJ4VjhJMVFBN09CQS1MOHB1ZkxKRzRtaE5QNWloLU00dEVWMFhtRFZWMmFaN01BLVhZcVJJb1JHd3ZnU244Zkd0bnplZFV3NmlrYXpuUmhkVE1vNlJIMmFGQ2JUZUxqQk9BVVYyR3lvbE9FVERoTG1FYkM1SDdJVnlwVll6NlEzNlpZMEZEY0dJTmVFUmtaRlB4WEY0U2ZGQ1Rma3lqdmM?oc=5",
+          "published": "Wed, 02 Sep 2026 15:31:51 GMT",
+          "source": "Food and Drink Technology"
+        },
+        {
+          "title": "Packaging, processing driving robotics tech adoption - Commercial Baking",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUFWSHFNSEhnVWdYdk1wWUtpRDljU0pBWDR6cUotOU55cmhGUGh6eUlGMkUtYmtHRFEzcWFOZXdadXlyY0FVdVRkamM2ajBCMnBmQXpBWHlUX002aWRBX1dmbGZNNXlQSlBFX0NWWWI2RENtVmlvcUJFcEVLRFNRSzk4eTJxN3lx?oc=5",
+          "published": "Tue, 01 Sep 2026 18:04:34 GMT",
+          "source": "Commercial Baking"
+        },
+        {
+          "title": "Mobile Robots Set to Dominate Packaging Industry by 2031 - Packaging World",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbUxHRmFMTzUwX1VKajFtLXZlcUxqZ1IxUWptdEFvMmlvanRneG5kWTA5UG1WckhzU0JHcXd1SjNFSTZlMlRKSjUwQkhScEFVR3ZwdS1OQ2NqRGVKVVQ5THFIOU80OWFKQVB6VEtMZkV0ZHJoTndndWVzSjBHNFZBS09aMlVEVk9rekpLZUs4bldmRXpZQ0NaV1hHYThlZ3N1U3BJWWtEc2tRck9RcVAtZENnUWduTGpKczVYRUg1dFNSTEJsdjBYcw?oc=5",
+          "published": "Fri, 28 Aug 2026 17:00:53 GMT",
+          "source": "Packaging World"
+        },
+        {
+          "title": "AI-Assisted Robots Optimize Packaging Production Lines - Packaging Digest",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS0ptR2tWb3QxanJJZmVvdkplWWlhOTlvcU5FTjBrSmQyVXE2b2JqRzZQUF9OVldfY1dxbzZ4SmJwSm5hbHVzZHdnNC1YU1VWZl84UVcySkxhRVdjV0x4T1Y1cm5nbGk1VGxDS1FmZVVHR09lTnVMNmdfeWxmMVVRZ0MySU1yWHZsVTBSN2hkMnNaUV9iaGtsV2JuQzBHZw?oc=5",
+          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+          "source": "Packaging Digest"
+        }
+      ]
     },
     "converting-printing-web": {
       "name": "Converting, Printing & Web",
@@ -73,12 +220,40 @@
       "label": "Positive",
       "summary": "Automated proof-of-concept data. The scheduled workflow refreshes the newsroom and evidence-based leadership topics.",
       "leaders": [
-        "web handling",
-        "roll to roll converting",
-        "printing automation",
-        "coating laminating"
+        "Workflow automation"
       ],
-      "news": []
+      "news": [
+        {
+          "title": "Loupe Americas 2026 preview - Labels & Labeling",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRnIwQ01Ycm5JVlpNU1ZCTFZjcjVqQ0hzS2JHNnNRUzBHb19RY0pzM2tVYjVTZFlYZHlnclFFOU5MNVFYQUY4dmZEQnRpVm9qNjNaUnQ2Y1JUMGdRWDFWX3gyN3R1TkJ0MVlYaWE1WjA2TU8wQXUyNWtBSmJubHVZZEh2NkVqZm14T3I1WC1GU0dRVm1S?oc=5",
+          "published": "Wed, 19 Aug 2026 12:00:00 GMT",
+          "source": "Labels & Labeling"
+        },
+        {
+          "title": "Discover how BW Converting combines engineering expertise with enhanced automation to deliver pioneering products - Manufacturing Today",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPc3NvLTRiU1RfTlZIN04wM2NEY2pCWTNPLURUWXVmTHEwWHlYX3FBdnJXYTQyeHpFWHF5R0VwSm5WTzVQajJYajRReXRjTHF6M3FWYVVpdXpsblpvNk1zcW5HVHExYjNjZnR4VG1QR0VDMTcxRlZDaTdBeGxXeGFPZVY1Z0FkLXBNbmJHQ0wxdF9wNGdUeXNEdnUyaHlmWW1mbkR0eXV1LXI3VGxnSkh3VUl5ejZTNWZ1WXNMdmxmMHFRYVdXVUpFRkpsVDc1cHVrVFM4NkpfM29QcjhtU2RjYTlwZnJrZw?oc=5",
+          "published": "Thu, 12 Mar 2026 07:00:00 GMT",
+          "source": "Manufacturing Today"
+        },
+        {
+          "title": "Digital Printing for Flexible Packaging Market Size & Forecast 2036 - Fact.MR",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcWMzMGQ3M3l3U0RFaVdiZUhJQVY0QUNzd2dkaUY1SE9IMzlFVVM5bFBER3cxNzQxRU44bmdmMWxjMDJjM3ZYa3gwbjNZUDY5ZVg3ZkhSRkc3b2FWOGlja1B5QkZuQXAxRGtaSkFseFFaUFE1YXNHQUVyeEV3T0VWUnd3?oc=5",
+          "published": "Tue, 11 Aug 2026 13:41:42 GMT",
+          "source": "Fact.MR"
+        },
+        {
+          "title": "Applied Manufacturing Technologies and FANUC to Highlight Collaborative Mixed-Load Handling at Automate 2026 - PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd2JkWm9tMml0ZHd1dlZHR3ZTSENMTV81RUJYWkZBbDZPaFMyaHVQR0tOeHhyM214bWV4ZXdRaVVxc1ltOF92b2stcEhBb3FqWnJCZVVORmtuU05mdEcxTmVHOE9pNGNjQl9mMXhzaXNZdzJoUWpqWUpwZnQ0WjgtZWVxQXhoLU43cEZ6aHRuUHZfc3FuMnZudHp1ZGRtSElONmtiSUUtZlExaVZHT1lHc3didF8xbklNaUk3YzNCSm0wNUNseUJVUXExWjZJbVBMUEpsX1YxdkxyZTQ5SXlpSWE3RDRtaGZqaTF4YnlrWkdDNDcwaUc0?oc=5",
+          "published": "Wed, 10 Jun 2026 07:00:00 GMT",
+          "source": "PR Newswire"
+        },
+        {
+          "title": "A.Celli Showcasing Latest Solutions for Nonwoven Production - Nonwovens Industry",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORTdPOHdfRGlHOWdqMFBsT2dOaEhnZDk4eFVGZWF5d2pReDhETzhwYjEwQXBYcVEzdGdFYlNNdWdqVTZlTndPalQzT2hzMHpIQ0QtdXZZamg4bHhIeXNEcTRvN1E1cTFQX2NaWWVVb2RWeHN5dVN2X0xXcUYwUzFNbGhKb1JQMG9pVm9xMG1XVGcxdFUybkFJbEszVGxnbEpDT3I3MnF0OXpNdFRXdlRKRg?oc=5",
+          "published": "Thu, 21 May 2026 05:09:43 GMT",
+          "source": "Nonwovens Industry"
+        }
+      ]
     }
   }
 }
