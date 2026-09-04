@@ -33,13 +33,13 @@ SEARCHES = {
     "packaging": [
         "packaging machinery", "PMMI industry outlook", "packaging robotics",
         "end of line automation", "packaging obsolescence", "packaging changeover",
-        "sustainable packaging machinery", "food beverage packaging automation"
+        "sustainable packaging machinery", "food beverage packaging automation", "consumer packaged goods"
     ],
     "converting-printing-web": [
         "web handling", "roll to roll converting", "printing automation",
         "coating laminating technology", "slitting winding machinery",
         "inline inspection converting", "flexible packaging converting",
-        "battery electrode roll to roll"
+        "battery electrode roll to roll", "home personal care"
     ]
 }
 
