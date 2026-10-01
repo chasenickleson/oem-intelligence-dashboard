@@ -18,12 +18,12 @@ SEARCHES = {
     "process": [
         "process automation", "industrial instrumentation", "chemical industry outlook",
         "pharmaceutical manufacturing automation", "food processing automation",
-        "water wastewater automation", "oil gas digitalization", "process cybersecurity"
+        "water wastewater automation", "oil gas digitalization", "process cybersecurity", "data center cooling process"
     ],
     "heavy-industries": [
         "mining automation", "metals industry automation", "cement plant automation",
         "aggregates equipment technology", "critical minerals investment",
-        "autonomous mining", "mining energy efficiency", "metals industry outlook"
+        "autonomous mining", "mining energy efficiency", "metals industry outlook", "data center energy infrastructure"
     ],
     "manufacturing-assembly": [
         "manufacturing automation", "industrial robotics orders", "machine vision manufacturing",
